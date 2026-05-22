@@ -1,0 +1,121 @@
+<html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Addresses - Lebanon Bus</title>
+    <link rel="stylesheet" href="addresses.css">
+</head>
+<body>
+    <header class="page-header">
+        <button class="back-btn" onclick="window.location.href='map.html'">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M19 12H5M12 19l-7-7 7-7"/>
+            </svg>
+        </button>
+        <h1 class="page-title">My addresses</h1>
+    </header>
+
+    <section class="addresses-section" id="addressList">
+        <!-- Addresses will be loaded here -->
+        <div class="add-address-btn" id="addAddressBtn">
+            <div class="add-icon">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <line x1="12" y1="5" x2="12" y2="19"></line>
+                    <line x1="5" y1="12" x2="19" y2="12"></line>
+                </svg>
+            </div>
+            <span class="add-text">Add new address</span>
+        </div>
+    </section>
+
+    <script src="api.js"></script>
+    <script>
+        const addressList = document.getElementById('addressList');
+        const token = localStorage.getItem('token');
+
+        async function loadAddresses() {
+            try {
+                const addresses = await api.addresses.getAll(token);
+                renderAddresses(addresses);
+            } catch (error) {
+                console.error(error);
+            }
+        }
+
+        function renderAddresses(addresses) {
+            // Keep the add button
+            const addBtn = document.getElementById('addAddressBtn');
+            addressList.innerHTML = '';
+            
+            addresses.forEach(addr => {
+                const item = document.createElement('div');
+                item.className = 'address-item';
+                item.innerHTML = `
+                    <div class="address-icon">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
+                            <circle cx="12" cy="10" r="3"></circle>
+                        </svg>
+                    </div>
+                    <div class="address-content">
+                        <div class="address-label">${addr.label}</div>
+                        <div class="address-text">${addr.address_line_1}, ${addr.city}, ${addr.country}</div>
+                    </div>
+                    <div class="address-actions">
+                        <button class="action-btn delete-btn" onclick="deleteAddr('${addr.id}')">
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <polyline points="3 6 5 6 21 6"></polyline>
+                                <path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path>
+                            </svg>
+                        </button>
+                    </div>
+                `;
+                addressList.appendChild(item);
+                const sep = document.createElement('div');
+                sep.className = 'address-separator';
+                addressList.appendChild(sep);
+            });
+            addressList.appendChild(addBtn);
+        }
+
+        async function deleteAddr(id) {
+            if (confirm('Are you sure?')) {
+                try {
+                    await api.addresses.delete(id, token);
+                    loadAddresses();
+                } catch (error) {
+                    alert(error.message);
+                }
+            }
+        }
+
+        document.getElementById('addAddressBtn').addEventListener('click', async () => {
+            const label = prompt('Enter label (e.g. Home):');
+            const address_line_1 = prompt('Enter address:');
+            const city = prompt('Enter city:');
+            if (label && address_line_1 && city) {
+                try {
+                    await api.addresses.add({
+                        label,
+                        address_line_1,
+                        city,
+                        country: 'Lebanon',
+                        latitude: 33.8938, // Default Beirut coords for now
+                        longitude: 35.5018
+                    }, token);
+                    loadAddresses();
+                } catch (error) {
+                    alert(error.message);
+                }
+            }
+        });
+
+        if (token) {
+            loadAddresses();
+        } else {
+            window.location.href = 'index.html';
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,284 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    background-color: #ffffff;
+    min-height: 100vh;
+}
+
+.page-header {
+    position: sticky;
+    top: 0;
+    background-color: #ffffff;
+    padding: 15px 20px;
+    display: flex;
+    align-items: center;
+    z-index: 100;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.back-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 8px;
+    color: #007BFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 15px;
+}
+
+.back-btn svg {
+    width: 24px;
+    height: 24px;
+}
+
+.page-title {
+    font-size: 20px;
+    font-weight: bold;
+    color: #007BFF;
+    margin: 0;
+}
+
+.payment-banner {
+    position: relative;
+    height: 200px;
+    background: linear-gradient(to bottom, rgba(0, 123, 255, 0.1) 0%, rgba(0, 123, 255, 0.05) 100%);
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+.banner-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.city-skyline {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+    background: linear-gradient(to top, rgba(0, 123, 255, 0.15) 0%, transparent 100%);
+    background-image: 
+        repeating-linear-gradient(
+            90deg,
+            transparent,
+            transparent 25px,
+            rgba(0, 123, 255, 0.2) 25px,
+            rgba(0, 123, 255, 0.2) 27px
+        );
+    opacity: 0.4;
+}
+
+.banner-illustration {
+    position: relative;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.illustration-card {
+    width: 80px;
+    height: 50px;
+    background-color: #ffffff;
+    border-radius: 6px;
+    position: relative;
+    z-index: 3;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+    margin-right: 10px;
+}
+
+.card-chip {
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    width: 12px;
+    height: 12px;
+    background-color: #007BFF;
+    border-radius: 2px;
+}
+
+.card-stripe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 8px;
+    background-color: #007BFF;
+    border-radius: 6px 6px 0 0;
+}
+
+.illustration-phone {
+    width: 50px;
+    height: 70px;
+    background-color: #0056b3;
+    border-radius: 6px;
+    position: absolute;
+    left: 20%;
+    z-index: 2;
+    opacity: 0.8;
+}
+
+.illustration-coin {
+    width: 30px;
+    height: 30px;
+    background: linear-gradient(135deg, #FFD700 0%, #FFA500 100%);
+    border-radius: 50%;
+    position: absolute;
+    right: 25%;
+    z-index: 4;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.illustration-banknote {
+    width: 60px;
+    height: 35px;
+    border: 2px solid #28a745;
+    border-radius: 4px;
+    position: absolute;
+    right: 15%;
+    z-index: 1;
+    opacity: 0.6;
+    background-color: rgba(40, 167, 69, 0.1);
+}
+
+.payment-section {
+    padding: 20px;
+    background-color: #ffffff;
+}
+
+.section-label {
+    font-size: 12px;
+    font-weight: 600;
+    color: #999999;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 15px;
+}
+
+.payment-option {
+    display: flex;
+    align-items: center;
+    padding: 16px;
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.payment-option:hover {
+    background-color: #f5f5f5;
+    border-color: #007BFF;
+}
+
+.payment-option.active {
+    border-color: #007BFF;
+    background-color: #f0f7ff;
+}
+
+.option-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #FFD700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 15px;
+    color: #000000;
+    flex-shrink: 0;
+}
+
+.option-icon.add-icon {
+    background-color: #007BFF;
+    color: #ffffff;
+}
+
+.option-icon svg {
+    width: 24px;
+    height: 24px;
+}
+
+.option-text {
+    flex: 1;
+    font-size: 16px;
+    font-weight: 600;
+    color: #000000;
+}
+
+.option-text.add-text {
+    color: #007BFF;
+    font-weight: 500;
+}
+
+.option-check {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    background-color: #007BFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+    flex-shrink: 0;
+}
+
+.option-check svg {
+    width: 14px;
+    height: 14px;
+}
+
+.option-arrow {
+    color: #999999;
+    flex-shrink: 0;
+}
+
+.option-arrow svg {
+    width: 20px;
+    height: 20px;
+}
+
+.payment-option.active .option-check {
+    display: flex;
+}
+
+.payment-option:not(.active) .option-check {
+    display: none;
+}
+
+@media (max-width: 480px) {
+    .page-header {
+        padding: 12px 15px;
+    }
+
+    .page-title {
+        font-size: 18px;
+    }
+
+    .payment-banner {
+        height: 180px;
+    }
+
+    .payment-section {
+        padding: 15px;
+    }
+
+    .payment-option {
+        padding: 14px;
+    }
+}
