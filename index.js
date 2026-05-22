@@ -20,6 +20,9 @@ app.use(morgan('dev'));
 // Routes
 app.use('/api/auth', require('./routes/authRoutes'));
 app.use('/api/addresses', require('./routes/addressRoutes'));
+app.use('/api/password', require('./routes/passwordRoutes'));
+app.use('/api/vouchers', require('./routes/voucherRoutes'));
+app.use('/api/routes', require('./routes/routeRoutes'));
 
 // Root endpoint
 app.get('/', (req, res) => {
