@@ -1,0 +1,361 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    background-color: #ffffff;
+    min-height: 100vh;
+    padding-bottom: 100px;
+}
+
+.page-header {
+    position: sticky;
+    top: 0;
+    background-color: #ffffff;
+    padding: 15px 20px;
+    display: flex;
+    align-items: center;
+    z-index: 100;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.back-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 8px;
+    color: #007BFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 15px;
+}
+
+.back-btn svg {
+    width: 24px;
+    height: 24px;
+}
+
+.page-title {
+    font-size: 20px;
+    font-weight: bold;
+    color: #007BFF;
+    margin: 0;
+}
+
+.profile-section {
+    position: relative;
+    padding: 40px 20px 30px;
+    text-align: center;
+    background-color: #ffffff;
+}
+
+.profile-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 200px;
+    overflow: hidden;
+}
+
+.city-skyline {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 60px;
+    background: linear-gradient(to top, rgba(0, 123, 255, 0.1) 0%, transparent 100%);
+    background-image: 
+        repeating-linear-gradient(
+            90deg,
+            transparent,
+            transparent 20px,
+            rgba(0, 123, 255, 0.15) 20px,
+            rgba(0, 123, 255, 0.15) 22px
+        );
+    opacity: 0.3;
+}
+
+.profile-stripe {
+    position: absolute;
+    bottom: 80px;
+    left: 0;
+    right: 0;
+    height: 40px;
+    background-color: #007BFF;
+    opacity: 0.2;
+}
+
+.profile-avatar {
+    position: relative;
+    z-index: 2;
+    margin-bottom: 15px;
+}
+
+.avatar-circle {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border: 4px solid #007BFF;
+}
+
+.avatar-circle svg {
+    color: #007BFF;
+    width: 80px;
+    height: 80px;
+}
+
+.account-type {
+    position: relative;
+    z-index: 2;
+    font-size: 12px;
+    color: #666666;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-top: 10px;
+}
+
+.content-section {
+    padding: 20px;
+    background-color: #ffffff;
+}
+
+.section-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.section-icon {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    background-color: #007BFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+    color: white;
+}
+
+.section-icon svg {
+    width: 16px;
+    height: 16px;
+}
+
+.section-title {
+    font-size: 14px;
+    font-weight: 600;
+    color: #666666;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin: 0;
+}
+
+.details-content {
+    padding-left: 34px;
+}
+
+.detail-name {
+    font-size: 18px;
+    font-weight: bold;
+    color: #000000;
+    margin-bottom: 8px;
+}
+
+.detail-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.detail-email {
+    font-size: 16px;
+    color: #000000;
+}
+
+.edit-btn {
+    background: none;
+    border: none;
+    color: #007BFF;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    padding: 4px 8px;
+}
+
+.detail-phone {
+    font-size: 16px;
+    color: #000000;
+}
+
+.password-content {
+    padding-left: 34px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}
+
+.password-text {
+    font-size: 16px;
+    color: #000000;
+}
+
+.password-content svg {
+    color: #999999;
+}
+
+.settings-content {
+    padding-left: 34px;
+}
+
+.setting-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 15px;
+}
+
+.setting-info {
+    flex: 1;
+}
+
+.setting-label {
+    font-size: 16px;
+    color: #000000;
+    margin-bottom: 5px;
+}
+
+.setting-description {
+    font-size: 13px;
+    color: #999999;
+    line-height: 1.4;
+}
+
+.toggle-switch {
+    position: relative;
+    display: inline-block;
+    width: 50px;
+    height: 30px;
+    flex-shrink: 0;
+}
+
+.toggle-switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.toggle-slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #e0e0e0;
+    transition: 0.3s;
+    border-radius: 30px;
+}
+
+.toggle-slider:before {
+    position: absolute;
+    content: "";
+    height: 22px;
+    width: 22px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    transition: 0.3s;
+    border-radius: 50%;
+}
+
+.toggle-switch input:checked + .toggle-slider {
+    background-color: #007BFF;
+}
+
+.toggle-switch input:checked + .toggle-slider:before {
+    transform: translateX(20px);
+}
+
+.signout-container {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 -2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.signout-btn {
+    display: block;
+    width: 100%;
+    padding: 16px;
+    background-color: #007BFF;
+    color: #ffffff;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    text-align: center;
+    text-decoration: none;
+}
+
+.signout-btn:hover {
+    background-color: #333333;
+}
+
+.signout-btn:active {
+    background-color: #000000;
+}
+
+@media (max-width: 480px) {
+    .page-header {
+        padding: 12px 15px;
+    }
+
+    .page-title {
+        font-size: 18px;
+    }
+
+    .profile-section {
+        padding: 30px 15px 25px;
+    }
+
+    .avatar-circle {
+        width: 100px;
+        height: 100px;
+    }
+
+    .avatar-circle svg {
+        width: 70px;
+        height: 70px;
+    }
+
+    .content-section {
+        padding: 15px;
+    }
+
+    .signout-container {
+        padding: 15px;
+    }
+}

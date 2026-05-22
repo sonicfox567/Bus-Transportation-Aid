@@ -1,0 +1,96 @@
+<html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up - Lebanon Bus</title>
+    <link rel="stylesheet" href="signup.css">
+</head>
+
+<body>
+
+    <div class="signup-container">
+        <h2>Create Account</h2>
+
+        <form novalidate>
+
+            <div class="tooltip-container">
+                <input type="text" class="input-box" placeholder="Username" required>
+                <div class="custom-tooltip"><span class="tooltip-icon">!</span> Please fill out this field.</div>
+            </div>
+
+            <div class="tooltip-container">
+                <input type="email" class="input-box" placeholder="Email Address" required>
+                <div class="custom-tooltip"><span class="tooltip-icon">!</span> Please fill out this field.</div>
+            </div>
+
+            <div class="tooltip-container">
+                <input type="tel" class="input-box" placeholder="Phone Number" required>
+                <div class="custom-tooltip"><span class="tooltip-icon">!</span> Please fill out this field.</div>
+            </div>
+
+            <div class="tooltip-container">
+                <input type="password" class="input-box" placeholder="Password" required>
+                <div class="custom-tooltip"><span class="tooltip-icon">!</span> Please fill out this field.</div>
+            </div>
+
+            <div class="tooltip-container">
+                <input type="number" class="input-box" placeholder="Age" min="16" required>
+                <div class="custom-tooltip"><span class="tooltip-icon">!</span> Please fill out this field.</div>
+            </div>
+
+
+
+            <div class="role-selection">
+                <label>I am a:</label>
+                <div class="radio-group">
+                    <label class="radio-label">
+                        <input type="radio" name="role" value="rider" checked> Rider
+                    </label>
+                    <label class="radio-label">
+                        <input type="radio" name="role" value="driver"> Driver
+                    </label>
+                </div>
+            </div>
+
+
+            <button type="submit" class="signup-btn">SIGN UP</button>
+
+
+            <a href="index.html" class="login-link">Already have an account? Login</a>
+        </form>
+    </div>
+
+    <script src="api.js"></script>
+    <script>
+        const form = document.querySelector('form');
+        const signupBtn = document.querySelector('.signup-btn');
+
+        signupBtn.addEventListener('click', async (e) => {
+            e.preventDefault();
+            form.classList.add('submitted');
+
+            if (form.checkValidity()) {
+                const username = form.querySelector('input[placeholder="Username"]').value;
+                const email = form.querySelector('input[placeholder="Email Address"]').value;
+                const phone_number = form.querySelector('input[placeholder="Phone Number"]').value;
+                const password = form.querySelector('input[placeholder="Password"]').value;
+                const age = form.querySelector('input[placeholder="Age"]').value;
+                const role = form.querySelector('input[name="role"]:checked').value;
+
+                try {
+                    const data = await api.auth.signup({ username, email, phone_number, password, age, role });
+                    localStorage.setItem('token', data.token);
+                    localStorage.setItem('user', JSON.stringify(data.user));
+                    alert("Account Created!");
+                    window.location.href = 'map.html';
+                } catch (error) {
+                    alert(error.message);
+                }
+            }
+        });
+    </script>
+</body>
+
+</html>
