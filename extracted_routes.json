@@ -1,0 +1,4304 @@
+[
+  {
+    "name": "Bus/van 4 hamra-Hadath",
+    "description": "http://onlinelebanonbuses.com/en/lebanon-bus-4/bain-militaire-hay-el-selloum",
+    "start_lng": 35.483994,
+    "start_lat": 33.897091,
+    "end_lng": 35.51749,
+    "end_lat": 33.828983,
+    "point_count": 85
+  },
+  {
+    "name": "Dora-Baskinta",
+    "description": null,
+    "start_lng": 35.551664,
+    "start_lat": 33.8936475,
+    "end_lng": 35.7914078,
+    "end_lat": 33.9436826,
+    "point_count": 518
+  },
+  {
+    "name": "Cola - Saida",
+    "description": "",
+    "start_lng": 35.494687,
+    "start_lat": 33.87578,
+    "end_lng": 35.374602,
+    "end_lat": 33.565631,
+    "point_count": 125
+  },
+  {
+    "name": "Cola - Saida",
+    "description": "",
+    "start_lng": 35.375731,
+    "start_lat": 33.565811,
+    "end_lng": 35.495174,
+    "end_lat": 33.873575,
+    "point_count": 78
+  },
+  {
+    "name": "Cola - Saida",
+    "description": "",
+    "start_lng": 35.49435,
+    "start_lat": 33.876787,
+    "end_lng": 35.37446,
+    "end_lat": 33.566476,
+    "point_count": 157
+  },
+  {
+    "name": "Cola - Hasbaya (Marjoun)",
+    "description": "",
+    "start_lng": 35.68815,
+    "start_lat": 33.398671,
+    "end_lng": 35.495415,
+    "end_lat": 33.878819,
+    "point_count": 483
+  },
+  {
+    "name": "Dora - Bikfaya",
+    "description": "",
+    "start_lng": 35.550047,
+    "start_lat": 33.893734,
+    "end_lng": 35.675329,
+    "end_lat": 33.917982,
+    "point_count": 63
+  },
+  {
+    "name": "Saida - Sour",
+    "description": "",
+    "start_lng": 35.369997,
+    "start_lat": 33.565297,
+    "end_lng": 35.199669,
+    "end_lat": 33.272312,
+    "point_count": 117
+  },
+  {
+    "name": "Cola - Qornayel",
+    "description": "",
+    "start_lng": 35.726101,
+    "start_lat": 33.853702,
+    "end_lng": 35.495583,
+    "end_lat": 33.876729,
+    "point_count": 92
+  },
+  {
+    "name": "Dora - Mrouj",
+    "description": "",
+    "start_lng": 35.549663,
+    "start_lat": 33.893567,
+    "end_lng": 35.749299,
+    "end_lat": 33.912193,
+    "point_count": 223
+  },
+  {
+    "name": "Beirut - Tripoli",
+    "description": "",
+    "start_lng": 35.835573,
+    "start_lat": 34.433769,
+    "end_lng": 35.5162,
+    "end_lat": 33.896882,
+    "point_count": 84
+  },
+  {
+    "name": "Beirut - Tripoli",
+    "description": "",
+    "start_lng": 35.837053,
+    "start_lat": 34.436764,
+    "end_lng": 35.514277,
+    "end_lat": 33.897109,
+    "point_count": 160
+  },
+  {
+    "name": "Hamra - Ain Saadeh",
+    "description": "",
+    "start_lng": 35.579064,
+    "start_lat": 33.876001,
+    "end_lng": 35.48735,
+    "end_lat": 33.8909,
+    "point_count": 127
+  },
+  {
+    "name": "Cola - Kafarhim el Chouf (Baakline)",
+    "description": "",
+    "start_lng": 35.55706,
+    "start_lat": 33.67996,
+    "end_lng": 35.49514,
+    "end_lat": 33.87515,
+    "point_count": 93
+  },
+  {
+    "name": "Hamra - Badaro",
+    "description": "",
+    "start_lng": 35.487565,
+    "start_lat": 33.894881,
+    "end_lng": 35.518957,
+    "end_lat": 33.876038,
+    "point_count": 57
+  },
+  {
+    "name": "Bourj Hamoud - Baabda",
+    "description": "",
+    "start_lng": 35.54269,
+    "start_lat": 33.832425,
+    "end_lng": 35.550377,
+    "end_lat": 33.893162,
+    "point_count": 73
+  },
+  {
+    "name": "Bourj Hamoud - Baabda",
+    "description": "",
+    "start_lng": 35.545791,
+    "start_lat": 33.884625,
+    "end_lng": 35.541382,
+    "end_lat": 33.834349,
+    "point_count": 78
+  },
+  {
+    "name": "Dora - Naher el Mott - Ain Mreisseh",
+    "description": "",
+    "start_lng": 35.54024,
+    "start_lat": 33.880609,
+    "end_lng": 35.547911,
+    "end_lat": 33.894277,
+    "point_count": 152
+  },
+  {
+    "name": "Dora - Naher el Mott - Ain Mreisseh",
+    "description": "",
+    "start_lng": 35.48899,
+    "start_lat": 33.9014,
+    "end_lng": 35.554496,
+    "end_lat": 33.894563,
+    "point_count": 114
+  },
+  {
+    "name": "Hamra - Borj Barjne",
+    "description": "",
+    "start_lng": 35.487861,
+    "start_lat": 33.896303,
+    "end_lng": 35.506551,
+    "end_lat": 33.855484,
+    "point_count": 94
+  },
+  {
+    "name": "Naher el Mott - Ziad Rahbani Street",
+    "description": "",
+    "start_lng": 35.5668,
+    "start_lat": 33.89693,
+    "end_lng": 35.49424,
+    "end_lat": 33.859982,
+    "point_count": 92
+  },
+  {
+    "name": "Hamra - Antelias",
+    "description": "",
+    "start_lng": 35.484012944835484,
+    "start_lat": 33.89422477162977,
+    "end_lng": 35.58890335448169,
+    "end_lat": 33.9158336457147,
+    "point_count": 103
+  },
+  {
+    "name": "Cola - Kayfoun",
+    "description": "",
+    "start_lng": 35.49528421,
+    "start_lat": 33.8768927,
+    "end_lng": 35.55846293,
+    "end_lat": 33.78117446,
+    "point_count": 42
+  },
+  {
+    "name": "Hamra - Hadath ",
+    "description": "",
+    "start_lng": 35.517541,
+    "start_lat": 33.830597,
+    "end_lng": 35.486888,
+    "end_lat": 33.896722,
+    "point_count": 170
+  },
+  {
+    "name": "Dora - Matar (Airport)",
+    "description": "",
+    "start_lng": 35.55001,
+    "start_lat": 33.893972,
+    "end_lng": 35.492489,
+    "end_lat": 33.826232,
+    "point_count": 122
+  },
+  {
+    "name": "Cola - Chtaura",
+    "description": "",
+    "start_lng": 35.85178745704678,
+    "start_lat": 33.81569030442159,
+    "end_lng": 35.49441014250799,
+    "end_lat": 33.86001176714593,
+    "point_count": 111
+  },
+  {
+    "name": "Cola - Qabr Chmoun (3aramoun)",
+    "description": "",
+    "start_lng": 35.49408324161034,
+    "start_lat": 33.865222200373786,
+    "end_lng": 35.54317046723256,
+    "end_lat": 33.75291521186279,
+    "point_count": 98
+  },
+  {
+    "name": "Beirut - Nabatieh",
+    "description": "",
+    "start_lng": 35.493592,
+    "start_lat": 33.858601,
+    "end_lng": 35.484788,
+    "end_lat": 33.378939,
+    "point_count": 94
+  },
+  {
+    "name": "Saida - Sour",
+    "description": "",
+    "start_lng": 35.363564,
+    "start_lat": 33.536831,
+    "end_lng": 35.213599,
+    "end_lat": 33.272809,
+    "point_count": 68
+  },
+  {
+    "name": "Cola - Chwit (Araya)",
+    "description": "",
+    "start_lng": 35.49493861,
+    "start_lat": 33.87738325,
+    "end_lng": 35.50362755,
+    "end_lat": 33.8778128,
+    "point_count": 151
+  },
+  {
+    "name": "Cola - Kafar Matta",
+    "description": "",
+    "start_lng": 35.49534853,
+    "start_lat": 33.87871569,
+    "end_lng": 35.53177182,
+    "end_lat": 33.72620525,
+    "point_count": 77
+  },
+  {
+    "name": "Beirut - Boqaata",
+    "description": "",
+    "start_lng": 35.59087397530675,
+    "start_lat": 33.67675222456455,
+    "end_lng": 35.51245062611997,
+    "end_lat": 33.86955971829593,
+    "point_count": 108
+  },
+  {
+    "name": "Beirut - Betghrine",
+    "description": "",
+    "start_lng": 35.553724,
+    "start_lat": 33.8937,
+    "end_lng": 35.729479,
+    "end_lat": 33.922414,
+    "point_count": 237
+  },
+  {
+    "name": "Beirut - Deir el Ahmar",
+    "description": "",
+    "start_lng": 35.553832836449,
+    "start_lat": 33.890170063823,
+    "end_lng": 36.128645315766,
+    "end_lat": 34.125043479726,
+    "point_count": 121
+  },
+  {
+    "name": "Beirut - Niha chouf",
+    "description": "",
+    "start_lng": 35.49496404826641,
+    "start_lat": 33.878688951954246,
+    "end_lng": 35.625455528497696,
+    "end_lat": 33.5937702935189,
+    "point_count": 101
+  },
+  {
+    "name": "Beirut - Chehim",
+    "description": "",
+    "start_lng": 35.494938,
+    "start_lat": 33.875965,
+    "end_lng": 35.488892,
+    "end_lat": 33.625511,
+    "point_count": 173
+  },
+  {
+    "name": "Beirut - Bcharreh",
+    "description": "",
+    "start_lng": 35.54832963,
+    "start_lat": 33.89223342,
+    "end_lng": 35.99830829,
+    "end_lat": 34.23907721,
+    "point_count": 382
+  },
+  {
+    "name": "Cola - Qmatiye",
+    "description": "",
+    "start_lng": 35.495084,
+    "start_lat": 33.877048,
+    "end_lng": 35.57651,
+    "end_lat": 33.802475,
+    "point_count": 217
+  },
+  {
+    "name": "Beirut - Sour (Tyre)",
+    "description": "",
+    "start_lng": 35.213929,
+    "start_lat": 33.274741,
+    "end_lng": 35.495083,
+    "end_lat": 33.872957,
+    "point_count": 247
+  },
+  {
+    "name": "Cola - Khaldeh",
+    "description": "",
+    "start_lng": 35.494938,
+    "start_lat": 33.874334,
+    "end_lng": 35.474465,
+    "end_lat": 33.780262,
+    "point_count": 120
+  },
+  {
+    "name": "Chtaura - Hermel",
+    "description": "",
+    "start_lng": 35.863423,
+    "start_lat": 33.816739,
+    "end_lng": 36.385758,
+    "end_lat": 34.398543,
+    "point_count": 208
+  },
+  {
+    "name": "Zahle - Rashaya",
+    "description": "",
+    "start_lng": 35.848673,
+    "start_lat": 33.503683,
+    "end_lng": 35.913034,
+    "end_lat": 33.838699,
+    "point_count": 182
+  },
+  {
+    "name": "Rayak - Chtoura",
+    "description": "",
+    "start_lng": 36.004966,
+    "start_lat": 33.859022,
+    "end_lng": 35.856021,
+    "end_lat": 33.814886,
+    "point_count": 161
+  },
+  {
+    "name": "Chtaura - Nabi Chit",
+    "description": "",
+    "start_lng": 35.855825,
+    "start_lat": 33.814786,
+    "end_lng": 36.110447,
+    "end_lat": 33.871898,
+    "point_count": 205
+  },
+  {
+    "name": "Chtoura - Baalbeck",
+    "description": "",
+    "start_lng": 35.857578,
+    "start_lat": 33.814731,
+    "end_lng": 36.202594,
+    "end_lat": 34.001961,
+    "point_count": 150
+  },
+  {
+    "name": "Cola - Kayfoun",
+    "description": "",
+    "start_lng": 35.495071,
+    "start_lat": 33.878923,
+    "end_lng": 35.565924,
+    "end_lat": 33.770355,
+    "point_count": 129
+  },
+  {
+    "name": "Cola - Bhamdoun",
+    "description": "",
+    "start_lng": 35.49539,
+    "start_lat": 33.878797,
+    "end_lng": 35.661636,
+    "end_lat": 33.806646,
+    "point_count": 138
+  },
+  {
+    "name": "Cola - Ruwayset el Ballout",
+    "description": "",
+    "start_lng": 35.494925,
+    "start_lat": 33.878592,
+    "end_lng": 35.645182,
+    "end_lat": 33.81936,
+    "point_count": 148
+  },
+  {
+    "name": "Cola - Remhala",
+    "description": "",
+    "start_lng": 35.495848,
+    "start_lat": 33.878981,
+    "end_lng": 35.569302,
+    "end_lat": 33.748471,
+    "point_count": 146
+  },
+  {
+    "name": "Beirut - Tripoli",
+    "description": "",
+    "start_lng": 35.536582,
+    "start_lat": 33.897197,
+    "end_lng": 35.835443,
+    "end_lat": 34.434476,
+    "point_count": 134
+  },
+  {
+    "name": "Tripoline-Tripoli- Mina",
+    "description": "",
+    "start_lng": 35.8359053,
+    "start_lat": 34.4338411,
+    "end_lng": 35.8354765,
+    "end_lat": 34.4353117,
+    "point_count": 28
+  },
+  {
+    "name": "Tripoli - Koura",
+    "description": "",
+    "start_lng": 35.834407,
+    "start_lat": 34.42946,
+    "end_lng": 35.836942,
+    "end_lat": 34.347618,
+    "point_count": 21
+  },
+  {
+    "name": "Zahle saraya",
+    "description": "",
+    "start_lng": 35.91571,
+    "start_lat": 33.83122,
+    "end_lng": 35.91558,
+    "end_lat": 33.83144,
+    "point_count": 238
+  },
+  {
+    "name": "Line B1",
+    "description": "",
+    "start_lng": 35.562026,
+    "start_lat": 33.898776,
+    "end_lng": 35.562006,
+    "end_lat": 33.898766,
+    "point_count": 703
+  },
+  {
+    "name": "Line B2",
+    "description": "",
+    "start_lng": 35.562382,
+    "start_lat": 33.898843,
+    "end_lng": 35.562392,
+    "end_lat": 33.898843,
+    "point_count": 679
+  },
+  {
+    "name": "Line B3",
+    "description": "",
+    "start_lng": 35.58876,
+    "start_lat": 33.91713,
+    "end_lng": 35.48758,
+    "end_lat": 33.89424,
+    "point_count": 904
+  },
+  {
+    "name": "Line B4",
+    "description": "",
+    "start_lng": 35.50748,
+    "start_lat": 33.89652,
+    "end_lng": 35.51953,
+    "end_lat": 33.82931,
+    "point_count": 768
+  },
+  {
+    "name": "Line B5",
+    "description": "",
+    "start_lng": 35.48771,
+    "start_lat": 33.89402,
+    "end_lng": 35.59113,
+    "end_lat": 33.85885,
+    "point_count": 826
+  },
+  {
+    "name": "Line B6",
+    "description": "",
+    "start_lng": 35.50736,
+    "start_lat": 33.89613,
+    "end_lng": 35.5072,
+    "end_lat": 33.8956,
+    "point_count": 1173
+  },
+  {
+    "name": "Line B7",
+    "description": "",
+    "start_lng": 35.52783,
+    "start_lat": 33.8974,
+    "end_lng": 35.48115,
+    "end_lat": 33.79057,
+    "point_count": 521
+  },
+  {
+    "name": "Line ML3",
+    "description": "",
+    "start_lng": 35.53923,
+    "start_lat": 33.8356,
+    "end_lng": 35.55107,
+    "end_lat": 33.89344,
+    "point_count": 580
+  },
+  {
+    "name": "Line ML4",
+    "description": "",
+    "start_lng": 35.51494,
+    "start_lat": 33.87864,
+    "end_lng": 35.82533,
+    "end_lat": 34.44821,
+    "point_count": 1485
+  },
+  {
+    "name": "Line ML1",
+    "description": "",
+    "start_lng": 35.52076,
+    "start_lat": 33.87873,
+    "end_lng": 35.8579,
+    "end_lat": 33.81523,
+    "point_count": 1021
+  },
+  {
+    "name": "Line ML2",
+    "description": "",
+    "start_lng": 35.19741,
+    "start_lat": 33.27346,
+    "end_lng": 35.4807,
+    "end_lat": 33.78906,
+    "point_count": 1092
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: City Mall - Amusement Park\u00a0<br>\u0633\u064a\u062a\u064a \u0645\u0648\u0644 - \u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0644\u0627\u0647\u064a\u200e<br>lattitude: 33.8962665<br>longitude: 35.5634783",
+    "start_lng": 35.5632594,
+    "start_lat": 33.8962348,
+    "end_lng": 35.5632594,
+    "end_lat": 33.8962348,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Dora Roundabout\u00a0<br>\u0645\u0633\u062a\u062f\u064a\u0631\u0629 \u0627\u0644\u062f\u0648\u0631\u0629\u200e<br>lattitude: 33.8939257<br>longitude: 35.5502248",
+    "start_lng": 35.5505777,
+    "start_lat": 33.8938715,
+    "end_lng": 35.5505777,
+    "end_lat": 33.8938715,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Bourj Hammoud - Pedestrian Bridge\u00a0<br> \u062c\u0633\u0631 \u0627\u0644\u0645\u0634\u0627\u0629 - \u0628\u0631\u062c \u062d\u0645\u0648\u062f<br>lattitude: 33.896266<br>longitude: 35.540968",
+    "start_lng": 35.5409942,
+    "start_lat": 33.8962092,
+    "end_lng": 35.5409942,
+    "end_lat": 33.8962092,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Forum De Beirut\u200e - Pedestrian Bridge\u00a0<br>\u00a0\u062c\u0633\u0631 \u0627\u0644\u0645\u0634\u0627\u0629 - \u0627\u0644\u0641\u0648\u0631\u0648\u0645\u00a0<br>lattitude: 33.8982493<br>longitude: 35.5326788",
+    "start_lng": 35.5326696,
+    "start_lat": 33.8982468,
+    "end_lng": 35.5326696,
+    "end_lat": 33.8982468,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Charles Helou - Port Entrance<br>\u0634\u0627\u0631\u0644 \u0627\u0644\u062d\u0644\u0648 - \u0645\u062f\u062e\u0644 \u0627\u0644\u0645\u0631\u0641\u0623<br>lattitude: 33.8973199<br>longitude: 35.5127636",
+    "start_lng": 35.512764,
+    "start_lat": 33.89732,
+    "end_lng": 35.512764,
+    "end_lat": 33.89732,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Biel Entrance\u00a0<br> \u0645\u062f\u062e\u0644 \u0627\u0644\u0628\u064a\u0627\u0644<br>lattitude: 33.901602<br>longitude: 35.505067",
+    "start_lng": 35.505067,
+    "start_lat": 33.901602,
+    "end_lng": 35.505067,
+    "end_lat": 33.901602,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Zaytouna Bay\u00a0<br>\u0632\u064a\u062a\u0648\u0646\u0629 \u0628\u0627\u064a<br>lattitude: 33.902217<br>longitude: 35.4985821",
+    "start_lng": 35.498582,
+    "start_lat": 33.902217,
+    "end_lng": 35.498582,
+    "end_lat": 33.902217,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Ain Al Mraiseh - Abdul Nasser Intersection\u00a0<br>\u062a\u0642\u0627\u0637\u0639 \u0639\u064a\u0646 \u0627\u0644\u0645\u0631\u064a\u0633\u0629 - \u0639\u0628\u062f\u0627\u0644\u0646\u0627\u0635\u0631<br>lattitude: 33.9014756<br>longitude: 35.490482",
+    "start_lng": 35.490541,
+    "start_lat": 33.9014582,
+    "end_lng": 35.490541,
+    "end_lat": 33.9014582,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: AUB - Seaside\u00a0<br>\u0627\u0644\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u0641\u064a \u0628\u064a\u0631\u0648\u062a - \u0627\u0644\u0637\u0631\u064a\u0642 \u0627\u0644\u0628\u062d\u0631\u064a\u0629<br>lattitude: 33.9029121<br>longitude: 35.4812396",
+    "start_lng": 35.48124,
+    "start_lat": 33.902912,
+    "end_lng": 35.48124,
+    "end_lat": 33.902912,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Military Club\u00a0<br>\u0627\u0644\u0646\u0627\u062f\u064a \u0627\u0644\u0639\u0633\u0643\u0631\u064a \u0627\u0644\u0645\u0631\u0643\u0632\u064a<br>lattitude: 33.8973473<br>longitude: 35.4705173",
+    "start_lng": 35.470517,
+    "start_lat": 33.897347,
+    "end_lng": 35.470517,
+    "end_lat": 33.897347,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Raouche\u00a0<br> \u0627\u0644\u0631\u0648\u0634\u0629<br>lattitude: 33.8902742<br>longitude: 35.4717543",
+    "start_lng": 35.471754,
+    "start_lat": 33.890274,
+    "end_lng": 35.471754,
+    "end_lat": 33.890274,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: M\u00f6venpick Hotel\u00a0<br> \u0623\u0648\u062a\u064a\u0644 \u0627\u0644\u0645\u0648\u0641\u0646\u0628\u064a\u0643<br>lattitude: 33.8862292<br>longitude: 35.4743653",
+    "start_lng": 35.474365,
+    "start_lat": 33.886229,
+    "end_lng": 35.474365,
+    "end_lat": 33.886229,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Verdun - Saeb Salam Intersection\u00a0<br> \u062a\u0642\u0627\u0637\u0639 \u0641\u0631\u062f\u0627\u0646 - \u0635\u0627\u0626\u0628 \u0633\u0644\u0627\u0645\u200e<br>lattitude: 33.8822158<br>longitude: 35.4832289",
+    "start_lng": 35.483229,
+    "start_lat": 33.882216,
+    "end_lng": 35.483229,
+    "end_lat": 33.882216,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Corniche El Mazraa - Cola Intersection\u00a0<br>\u062a\u0642\u0627\u0637\u0639 \u0643\u0648\u0631\u0646\u064a\u0634 \u0627\u0644\u0645\u0632\u0631\u0639\u0629 - \u0627\u0644\u0643\u0648\u0644\u0627<br>lattitude: 33.8792551<br>longitude: 35.4949812",
+    "start_lng": 35.4950802,
+    "start_lat": 33.8792962,
+    "end_lng": 35.4950802,
+    "end_lat": 33.8792962,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Barbir\u00a0<br>\u0628\u0631\u0628\u064a\u0631<br>lattitude: 33.8780884<br>longitude: 35.5071647",
+    "start_lng": 35.507334,
+    "start_lat": 33.8781515,
+    "end_lng": 35.507334,
+    "end_lat": 33.8781515,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: National Museum\u00a0<br> \u0627\u0644\u0645\u062a\u062d\u0641 \u0627\u0644\u0648\u0637\u0646\u064a<br>lattitude: 33.8786331<br>longitude: 35.5149979",
+    "start_lng": 35.514998,
+    "start_lat": 33.878633,
+    "end_lng": 35.514998,
+    "end_lat": 33.878633,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Adliyeh Roundabout\u00a0<br>\u0645\u0633\u062a\u062f\u064a\u0631\u0629 \u0627\u0644\u0639\u062f\u0644\u064a\u0629<br>lattitude: 33.8789115<br>longitude: 35.5205423",
+    "start_lng": 35.5203891,
+    "start_lat": 33.8789387,
+    "end_lng": 35.5203891,
+    "end_lat": 33.8789387,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Pierre Gemayel Street\u00a0<br>\u0634\u0627\u0631\u0639 \u0628\u064a\u0627\u0631 \u0627\u0644\u062c\u0645\u064a\u0644<br>lattitude: 33.8813087<br>longitude: 35.5266849",
+    "start_lng": 35.526685,
+    "start_lat": 33.881309,
+    "end_lng": 35.526685,
+    "end_lat": 33.881309,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Souk Al Ahad\u00a0<br> \u0633\u0648\u0642 \u0627\u0644\u0627\u062d\u062f<br>lattitude: 33.88246477<br>longitude: 35.53131944",
+    "start_lng": 35.531319,
+    "start_lat": 33.882465,
+    "end_lng": 35.531319,
+    "end_lat": 33.882465,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: General Labor Union\u00a0<br>\u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0639\u0645\u0627\u0644\u064a \u0627\u0644\u0639\u0627\u0645<br>lattitude: 33.8877917<br>longitude: 35.53259226",
+    "start_lng": 35.532592,
+    "start_lat": 33.887792,
+    "end_lng": 35.532592,
+    "end_lat": 33.887792,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Al Nahr Crossroads\u00a0<br>\u062a\u0642\u0627\u0637\u0639 \u0627\u0634\u0627\u0631\u0629 \u0627\u0644\u0646\u0647\u0631<br>lattitude: 33.8953684<br>longitude: 35.5356855",
+    "start_lng": 35.5357075,
+    "start_lat": 33.895535,
+    "end_lng": 35.5357075,
+    "end_lat": 33.895535,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Bourj Hammoud - Pedestrian Bridge\u00a0<br>\u062c\u0633\u0631 \u0627\u0644\u0645\u0634\u0627\u0629 - \u0628\u0631\u062c \u062d\u0645\u0648\u062f<br>lattitude: 33.895999<br>longitude: 35.540855",
+    "start_lng": 35.5408758,
+    "start_lat": 33.8960502,
+    "end_lng": 35.5408758,
+    "end_lat": 33.8960502,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Dora Roundabout\u00a0<br>\u0645\u0633\u062a\u062f\u064a\u0631\u0629 \u0627\u0644\u062f\u0648\u0631\u0629<br>lattitude: 33.8935808<br>longitude: 35.5502196",
+    "start_lng": 35.5504963,
+    "start_lat": 33.8933973,
+    "end_lng": 35.5504963,
+    "end_lat": 33.8933973,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: <br>lattitude: <br>longitude:",
+    "start_lng": 35.562026,
+    "start_lat": 33.898776,
+    "end_lng": 35.562006,
+    "end_lat": 33.898766,
+    "point_count": 703
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: City Mall - Amusement Park\u00a0<br>\u0633\u064a\u062a\u064a \u0645\u0648\u0644 - \u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0644\u0627\u0647\u064a<br>Lattitude: 33.8962665<br>Longitude: 35.5635226",
+    "start_lng": 35.5632533,
+    "start_lat": 33.8962361,
+    "end_lng": 35.5632533,
+    "end_lat": 33.8962361,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Dora Roundabout\u00a0<br> \u0645\u0633\u062a\u062f\u064a\u0631\u0629 \u0627\u0644\u062f\u0648\u0631\u0629<br>Lattitude: 33.8939279<br>Longitude: 35.550147",
+    "start_lng": 35.5505748,
+    "start_lat": 33.8938668,
+    "end_lng": 35.5505748,
+    "end_lat": 33.8938668,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Bourj Hammoud - Pedestrian Bridge\u00a0<br>\u062c\u0633\u0631 \u0627\u0644\u0645\u0634\u0627\u0629 - \u0628\u0631\u062c \u062d\u0645\u0648\u062f\u200e<br>Lattitude: 33.8962949<br>Longitude: 35.5409465",
+    "start_lng": 35.5409903,
+    "start_lat": 33.8962087,
+    "end_lng": 35.5409903,
+    "end_lat": 33.8962087,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Karantina\u00a0<br>\u0627\u0644\u0643\u0631\u0646\u062a\u064a\u0646\u0627<br>Lattitude: 33.8984196<br>Longitude: 35.5367556",
+    "start_lng": 35.536756,
+    "start_lat": 33.89842,
+    "end_lng": 35.536756,
+    "end_lat": 33.89842,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Al Nahr Crossroads\u00a0<br>\u062a\u0642\u0627\u0637\u0639 \u0627\u0634\u0627\u0631\u0629 \u0627\u0644\u0646\u0647\u0631<br>Lattitude: 33.89573928<br>Longitude: 35.53564453",
+    "start_lng": 35.5355712,
+    "start_lat": 33.8955809,
+    "end_lng": 35.5355712,
+    "end_lat": 33.8955809,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Fiat Bridge\u00a0<br> \u062c\u0633\u0631 \u0627\u0644\u0641\u064a\u0627\u062a<br>Lattitude: 33.88468382<br>Longitude: 35.53034212",
+    "start_lng": 35.5303391,
+    "start_lat": 33.8846733,
+    "end_lng": 35.5303391,
+    "end_lat": 33.8846733,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Adliyeh Roundabout\u00a0<br> \u0645\u0633\u062a\u062f\u064a\u0631\u0629 \u0627\u0644\u0639\u062f\u0644\u064a\u0629 \u200e<br>Lattitude: 33.8794785<br>Longitude: 35.5207342",
+    "start_lng": 35.520734,
+    "start_lat": 33.879478,
+    "end_lng": 35.520734,
+    "end_lat": 33.879478,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Military Court\u00a0<br> \u0627\u0644\u0645\u062d\u0643\u0645\u0629 \u0627\u0644\u0639\u0633\u0643\u0631\u064a\u0629<br>Lattitude: 33.8786278<br>Longitude: 35.5123913",
+    "start_lng": 35.512391,
+    "start_lat": 33.878628,
+    "end_lng": 35.512391,
+    "end_lat": 33.878628,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Barbir\u00a0<br> \u0628\u0631\u0628\u064a\u0631<br>Lattitude: 33.8782874<br>Longitude: 35.5073661",
+    "start_lng": 35.5073217,
+    "start_lat": 33.8782792,
+    "end_lng": 35.5073217,
+    "end_lat": 33.8782792,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Corniche El Mazraa - Cola Intersection\u00a0<br>\u062a\u0642\u0627\u0637\u0639 \u0643\u0648\u0631\u0646\u064a\u0634 \u0627\u0644\u0645\u0632\u0631\u0639\u0629 - \u0627\u0644\u0643\u0648\u0644\u0627<br>Lattitude: 33.8793168<br>Longitude: 35.4954479",
+    "start_lng": 35.4954279,
+    "start_lat": 33.8793426,
+    "end_lng": 35.4954279,
+    "end_lat": 33.8793426,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Verdun - Saeb Salam Intersection\u00a0<br>\u062a\u0642\u0627\u0637\u0639 \u0641\u0631\u062f\u0627\u0646 - \u0635\u0627\u0626\u0628 \u0633\u0644\u0627\u0645\u200e\u200e<br>Lattitude: 33.882404<br>Longitude: 35.4832579",
+    "start_lng": 35.483258,
+    "start_lat": 33.882404,
+    "end_lng": 35.483258,
+    "end_lat": 33.882404,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: M\u00f6venpick Hotel\u00a0<br> \u0623\u0648\u062a\u064a\u0644 \u0627\u0644\u0645\u0648\u0641\u0646\u0628\u064a\u0643<br>Lattitude: 33.88633255<br>Longitude: 35.47456678",
+    "start_lng": 35.474567,
+    "start_lat": 33.886333,
+    "end_lng": 35.474567,
+    "end_lat": 33.886333,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Raouche\u00a0<br>\u0627\u0644\u0631\u0648\u0634\u0629<br>Lattitude: 33.8903149<br>Longitude: 35.4720456",
+    "start_lng": 35.472046,
+    "start_lat": 33.890315,
+    "end_lng": 35.472046,
+    "end_lat": 33.890315,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Military Club\u00a0<br>\u0627\u0644\u0646\u0627\u062f\u064a \u0627\u0644\u0639\u0633\u0643\u0631\u064a \u0627\u0644\u0645\u0631\u0643\u0632\u064a<br>Lattitude: 33.8973686<br>Longitude: 35.4707498",
+    "start_lng": 35.47075,
+    "start_lat": 33.897369,
+    "end_lng": 35.47075,
+    "end_lat": 33.897369,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: AUB - Seaside\u00a0<br> \u0627\u0644\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u0641\u064a \u0628\u064a\u0631\u0648\u062a - \u0627\u0644\u0637\u0631\u064a\u0642 \u0627\u0644\u0628\u062d\u0631\u064a\u0629<br>Lattitude: 33.9027393<br>Longitude: 35.4811276",
+    "start_lng": 35.481128,
+    "start_lat": 33.902739,
+    "end_lng": 35.481128,
+    "end_lat": 33.902739,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Ain Al Mraiseh - Abdul Nasser Intersection\u00a0<br>\u062a\u0642\u0627\u0637\u0639 \u0639\u064a\u0646 \u0627\u0644\u0645\u0631\u064a\u0633\u0629 - \u0639\u0628\u062f\u0627\u0644\u0646\u0627\u0635\u0631<br>Lattitude: 33.9012962<br>Longitude: 35.4904895",
+    "start_lng": 35.4906241,
+    "start_lat": 33.9013272,
+    "end_lng": 35.4906241,
+    "end_lat": 33.9013272,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Zaytouna Bay\u00a0<br> \u0632\u064a\u062a\u0648\u0646\u0629 \u0628\u0627\u064a<br>Lattitude: 33.9021539<br>Longitude: 35.4989449",
+    "start_lng": 35.498945,
+    "start_lat": 33.902154,
+    "end_lng": 35.498945,
+    "end_lat": 33.902154,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Biel Entrance\u00a0<br>\u0645\u062f\u062e\u0644 \u0627\u0644\u0628\u064a\u0627\u0644<br>Lattitude: 33.9014351<br>Longitude: 35.5050243",
+    "start_lng": 35.505024,
+    "start_lat": 33.901435,
+    "end_lng": 35.505024,
+    "end_lat": 33.901435,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Charles Helou - Port Entrance\u00a0<br> \u0634\u0627\u0631\u0644 \u0627\u0644\u062d\u0644\u0648 \u2013 \u0645\u062f\u062e\u0644 \u0627\u0644\u0645\u0631\u0641\u0623<br>Lattitude: 33.8971947<br>Longitude: 35.5127235",
+    "start_lng": 35.512724,
+    "start_lat": 33.897195,
+    "end_lng": 35.512724,
+    "end_lat": 33.897195,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Electricit\u00e9 du Liban\u00a0<br> \u0643\u0647\u0631\u0628\u0627\u0621 \u0644\u0628\u0646\u0627\u0646<br>Lattitude: 33.89773161<br>Longitude: 35.52153086",
+    "start_lng": 35.521531,
+    "start_lat": 33.897732,
+    "end_lng": 35.521531,
+    "end_lat": 33.897732,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Forum De Beirut - Pedestrian Bridge\u00a0<br>\u00a0\u062c\u0633\u0631 \u0627\u0644\u0645\u0634\u0627\u0629 - \u0627\u0644\u0641\u0648\u0631\u0648\u0645\u200e<br>Lattitude: 33.8981179<br>Longitude: 35.532538",
+    "start_lng": 35.532538,
+    "start_lat": 33.898118,
+    "end_lng": 35.532538,
+    "end_lat": 33.898118,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Bourj Hammoud - Pedestrian Bridge\u00a0<br> \u062c\u0633\u0631 \u0627\u0644\u0645\u0634\u0627\u0629 - \u0628\u0631\u062c \u062d\u0645\u0648\u062f<br>Lattitude: 33.8960259<br>Longitude: 35.5407971",
+    "start_lng": 35.5408694,
+    "start_lat": 33.896046,
+    "end_lng": 35.5408694,
+    "end_lat": 33.896046,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Dora Roundabout\u00a0<br> \u0645\u0633\u062a\u062f\u064a\u0631\u0629 \u0627\u0644\u062f\u0648\u0631\u0629<br>Lattitude: 33.8935893<br>Longitude: 35.5502743",
+    "start_lng": 35.550498,
+    "start_lat": 33.8933931,
+    "end_lng": 35.550498,
+    "end_lat": 33.8933931,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: <br>Lattitude: <br>Longitude:",
+    "start_lng": 35.562205,
+    "start_lat": 33.8988408,
+    "end_lng": 35.562215,
+    "end_lat": 33.8988408,
+    "point_count": 679
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: El Rahbani Street\u00a0<br>\u0634\u0627\u0631\u0639 \u0627\u0644\u0631\u062d\u0628\u0627\u0646\u064a<br>Lattitude: 33.9170667<br>Longitude: 35.5872312",
+    "start_lng": 35.587231,
+    "start_lat": 33.917067,
+    "end_lng": 35.587231,
+    "end_lat": 33.917067,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Mar Elias Church Antelias<br>\u0643\u0646\u064a\u0633\u0629 \u0645\u0627\u0631 \u0627\u0644\u064a\u0627\u0633 - \u0627\u0646\u0637\u0644\u064a\u0627\u0633\u200e<br>Lattitude: 33.915677<br>Longitude: 35.5887996",
+    "start_lng": 35.5887893,
+    "start_lat": 33.915677,
+    "end_lng": 35.5887893,
+    "end_lat": 33.915677,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Antelias Main Road <br>\u0627\u0646\u0637\u0644\u064a\u0627\u0633 \u0627\u0644\u0634\u0627\u0631\u0639 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u200e<br>Lattitude: 33.9129232<br>Longitude: 35.5855629",
+    "start_lng": 35.585563,
+    "start_lat": 33.912923,
+    "end_lng": 35.585563,
+    "end_lat": 33.912923,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Jal El Dib - Bsalim Intersection<br>\u062a\u0642\u0627\u0637\u0639 \u062c\u0644 \u0627\u0644\u062f\u064a\u0628 - \u0628\u0635\u0627\u0644\u064a\u0645\u200e<br>Lattitude: 33.9089976<br>Longitude: 35.5817836",
+    "start_lng": 35.581784,
+    "start_lat": 33.908998,
+    "end_lng": 35.581784,
+    "end_lat": 33.908998,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Zalka<br>\u0632\u0644\u0642\u0627\u200e<br>Lattitude: 33.9030766<br>Longitude: 35.5756022",
+    "start_lng": 35.575602,
+    "start_lat": 33.903077,
+    "end_lng": 35.575602,
+    "end_lat": 33.903077,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Zalka - Al Arz Hospital Interscetion\u00a0<br> \u062a\u0642\u0627\u0637\u0639 \u0645\u0633\u062a\u0634\u0641\u0649 \u0627\u0644\u0623\u0631\u0632 - \u0632\u0644\u0642\u0627<br>Lattitude: 33.9001714<br>Longitude: 35.5725005",
+    "start_lng": 35.57264,
+    "start_lat": 33.90022,
+    "end_lng": 35.57264,
+    "end_lat": 33.90022,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Jdeideh Municipality\u00a0<br> \u0628\u0644\u062f\u064a\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629<br>Lattitude: 33.8921436<br>Longitude: 35.5627414",
+    "start_lng": 35.5628161,
+    "start_lat": 33.8920805,
+    "end_lng": 35.5628161,
+    "end_lat": 33.8920805,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Dora Roundabout\u00a0<br> \u0645\u0633\u062a\u062f\u064a\u0631\u0629 \u0627\u0644\u062f\u0648\u0631\u0629<br>Lattitude: 33.8938958<br>Longitude: 35.5502852",
+    "start_lng": 35.5505774,
+    "start_lat": 33.8938648,
+    "end_lng": 35.5505774,
+    "end_lat": 33.8938648,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Dora Pedestrian Bridge\u00a0<br> \u062c\u0633\u0631 \u0627\u0644\u0645\u0634\u0627\u0629 \u0627\u0644\u062f\u0648\u0631\u0629<br>Lattitude: 33.8948515<br>Longitude: 35.5463556",
+    "start_lng": 35.546378,
+    "start_lat": 33.894848,
+    "end_lng": 35.546378,
+    "end_lat": 33.894848,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Bourj Hammoud - Pedestrian Bridge\u00a0<br>\u062c\u0633\u0631 \u0627\u0644\u0645\u0634\u0627\u0629 - \u0628\u0631\u062c \u062d\u0645\u0648\u062f\u200e\u200e<br>Lattitude: 33.8963078<br>Longitude: 35.5408856",
+    "start_lng": 35.5409906,
+    "start_lat": 33.8962012,
+    "end_lng": 35.5409906,
+    "end_lat": 33.8962012,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Forum De Beirut\u200e - Pedestrian Bridge\u00a0<br>\u00a0\u062c\u0633\u0631 \u0627\u0644\u0645\u0634\u0627\u0629 - \u0627\u0644\u0641\u0648\u0631\u0648\u0645\u00a0\u00a0\u200e<br>Lattitude: 33.8982631<br>Longitude: 35.532691",
+    "start_lng": 35.5326622,
+    "start_lat": 33.8982547,
+    "end_lng": 35.5326622,
+    "end_lat": 33.8982547,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Sassine Square\u00a0<br> \u0633\u0627\u062d\u0629 \u0633\u0627\u0633\u064a\u0646<br>Lattitude: 33.8873722<br>Longitude: 35.5207951",
+    "start_lng": 35.5207937,
+    "start_lat": 33.8873341,
+    "end_lng": 35.5207937,
+    "end_lat": 33.8873341,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Sodeco\u00a0<br>\u0633\u0648\u062f\u064a\u0643\u0648<br>Lattitude: 33.886771<br>Longitude: 35.508359",
+    "start_lng": 35.508359,
+    "start_lat": 33.886771,
+    "end_lng": 35.508359,
+    "end_lat": 33.886771,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Bechara El Khoury\u00a0<br>\u0628\u0634\u0627\u0631\u0629 \u0627\u0644\u062e\u0648\u0631\u064a<br>Lattitude: 33.88725804<br>Longitude: 35.50632508",
+    "start_lng": 35.5063813,
+    "start_lat": 33.8872368,
+    "end_lng": 35.5063813,
+    "end_lat": 33.8872368,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Al Basta Bridge\u00a0<br> \u062c\u0633\u0631 \u0627\u0644\u0628\u0633\u0637\u0627<br>Lattitude: 33.888563<br>Longitude: 35.50275682",
+    "start_lng": 35.502757,
+    "start_lat": 33.888563,
+    "end_lng": 35.502757,
+    "end_lat": 33.888563,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: El Hoss\u00a0<br> \u0627\u0644\u062d\u0635<br>Lattitude: 33.89072415<br>Longitude: 35.48760646",
+    "start_lng": 35.487606,
+    "start_lat": 33.890724,
+    "end_lng": 35.487606,
+    "end_lat": 33.890724,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Hamra - Barbar\u00a0<br>\u0627\u0644\u062d\u0645\u0631\u0627 - \u0628\u0631\u0628\u0631 \u200e<br>Lattitude: 33.8943843<br>Longitude: 35.4876436",
+    "start_lng": 35.4850907,
+    "start_lat": 33.8940733,
+    "end_lng": 35.4850907,
+    "end_lat": 33.8940733,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: El Hoss\u00a0<br> \u0627\u0644\u062d\u0635<br>Lattitude: 33.890225<br>Longitude: 35.487532",
+    "start_lng": 35.487623,
+    "start_lat": 33.890172,
+    "end_lng": 35.487623,
+    "end_lat": 33.890172,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Al Basta Bridge\u00a0<br>\u062c\u0633\u0631 \u0627\u0644\u0628\u0633\u0637\u0627<br>Lattitude: 33.8883753<br>Longitude: 35.5027753",
+    "start_lng": 35.502767,
+    "start_lat": 33.8884039,
+    "end_lng": 35.502767,
+    "end_lat": 33.8884039,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Bechara El Khoury\u00a0<br>\u0628\u0634\u0627\u0631\u0629 \u0627\u0644\u062e\u0648\u0631\u064a<br>Lattitude: 33.8870626<br>Longitude: 35.5063356",
+    "start_lng": 35.5064218,
+    "start_lat": 33.887053,
+    "end_lng": 35.5064218,
+    "end_lat": 33.887053,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Sodeco\u00a0<br> \u0633\u0648\u062f\u064a\u0643\u0648<br>Lattitude: 33.886639<br>Longitude: 35.508401",
+    "start_lng": 35.5083923,
+    "start_lat": 33.8866618,
+    "end_lng": 35.5083923,
+    "end_lat": 33.8866618,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Sassine Square\u00a0<br>\u0633\u0627\u062d\u0629 \u0633\u0627\u0633\u064a\u0646<br>Lattitude: 33.8871603<br>Longitude: 35.5208651",
+    "start_lng": 35.5208409,
+    "start_lat": 33.8872179,
+    "end_lng": 35.5208409,
+    "end_lat": 33.8872179,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Ministry of Foreign Affairs and Emigrants\u00a0<br> \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062e\u0627\u0631\u062c\u064a\u0629 \u0648\u0627\u0644\u0645\u063a\u062a\u0631\u0628\u064a\u0646\u200e<br>Lattitude: 33.891943<br>Longitude: 35.5179719",
+    "start_lng": 35.517972,
+    "start_lat": 33.891943,
+    "end_lng": 35.517972,
+    "end_lat": 33.891943,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Electricit\u00e9 Du Liban\u200e\u00a0<br>\u0643\u0647\u0631\u0628\u0627\u0621 \u0644\u0628\u0646\u0627\u0646<br>Lattitude: 33.895698<br>Longitude: 35.521368",
+    "start_lng": 35.521368,
+    "start_lat": 33.895698,
+    "end_lng": 35.521368,
+    "end_lat": 33.895698,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Forum De Beirut\u200e - Pedestrian Bridge <br>\u062c\u0633\u0631 \u0627\u0644\u0645\u0634\u0627\u0629 - \u0627\u0644\u0641\u0648\u0631\u0648\u0645\u00a0<br>Lattitude: 33.8981004<br>Longitude: 35.5325446",
+    "start_lng": 35.5325473,
+    "start_lat": 33.8981095,
+    "end_lng": 35.5325473,
+    "end_lat": 33.8981095,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Bourj Hammoud - Pedestrian Bridge\u00a0<br> \u062c\u0633\u0631 \u0627\u0644\u0645\u0634\u0627\u0629 - \u0628\u0631\u062c \u062d\u0645\u0648\u062f\u200e\u200e<br>Lattitude: 33.8960117<br>Longitude: 35.5407349",
+    "start_lng": 35.5408745,
+    "start_lat": 33.8960476,
+    "end_lng": 35.5408745,
+    "end_lat": 33.8960476,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Dora Roundabout\u00a0<br>\u0645\u0633\u062a\u062f\u064a\u0631\u0629 \u0627\u0644\u062f\u0648\u0631\u0629<br>Lattitude: 33.8935637<br>Longitude: 35.5503191",
+    "start_lng": 35.5504933,
+    "start_lat": 33.893397,
+    "end_lng": 35.5504933,
+    "end_lat": 33.893397,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Khabbaz - Mirna Chalouhi Intersection\u00a0<br>\u062a\u0642\u0627\u0637\u0639 \u062e\u0628\u0627\u0632 - \u0645\u064a\u0631\u0646\u0627 \u0634\u0627\u0644\u0648\u062d\u064a<br>Lattitude: 33.8894975<br>Longitude: 35.5540776",
+    "start_lng": 35.554078,
+    "start_lat": 33.889498,
+    "end_lng": 35.554078,
+    "end_lat": 33.889498,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Jdeideh Municipality\u00a0<br>\u0628\u0644\u062f\u064a\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629<br>Lattitude: 33.8917832<br>Longitude: 35.5627146",
+    "start_lng": 35.562715,
+    "start_lat": 33.891783,
+    "end_lng": 35.562715,
+    "end_lat": 33.891783,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Zalka Main Road\u00a0<br>\u00a0\u0627\u0644\u0637\u0631\u064a\u0642 \u0627\u0644\u0639\u0627\u0645 \u0632\u0644\u0642\u0627\u200e<br>Lattitude: 33.8977963<br>Longitude: 35.5696568",
+    "start_lng": 35.569723,
+    "start_lat": 33.897706,
+    "end_lng": 35.569723,
+    "end_lat": 33.897706,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Zalka - Al Arz Hospital Interscetion\u00a0<br> \u062a\u0642\u0627\u0637\u0639 \u0645\u0633\u062a\u0634\u0641\u0649 \u0627\u0644\u0623\u0631\u0632 - \u0632\u0644\u0642\u0627\u200e<br>Lattitude: 33.9000069<br>Longitude: 35.5727373",
+    "start_lng": 35.572745,
+    "start_lat": 33.900161,
+    "end_lng": 35.572745,
+    "end_lat": 33.900161,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Jal El Dib - Bsalim Intersection\u00a0<br>\u062a\u0642\u0627\u0637\u0639 \u062c\u0644 \u0627\u0644\u062f\u064a\u0628 - \u0628\u0635\u0627\u0644\u064a\u0645\u200e<br>Lattitude: 33.9088329<br>Longitude: 35.5818158",
+    "start_lng": 35.581816,
+    "start_lat": 33.908833,
+    "end_lng": 35.581816,
+    "end_lat": 33.908833,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Antelias Main Road <br>\u0627\u0646\u0637\u0644\u064a\u0627\u0633 \u0627\u0644\u0634\u0627\u0631\u0639 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u200e<br>Lattitude: 33.9127273<br>Longitude: 35.5854985",
+    "start_lng": 35.585498,
+    "start_lat": 33.912727,
+    "end_lng": 35.585498,
+    "end_lat": 33.912727,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Mar Elias Church Antelias\u00a0<br>\u0643\u0646\u064a\u0633\u0629 \u0645\u0627\u0631 \u0627\u0644\u064a\u0627\u0633 - \u0627\u0646\u0637\u0644\u064a\u0627\u0633\u200e<br>Lattitude: 33.9156325<br>Longitude: 35.5889337",
+    "start_lng": 35.588934,
+    "start_lat": 33.915632,
+    "end_lng": 35.588934,
+    "end_lat": 33.915632,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: El Rahbani Street\u00a0<br> \u0634\u0627\u0631\u0639 \u0627\u0644\u0631\u062d\u0628\u0627\u0646\u064a<br>Lattitude: 33.9174429<br>Longitude: 35.5872419",
+    "start_lng": 35.587242,
+    "start_lat": 33.917443,
+    "end_lng": 35.587242,
+    "end_lat": 33.917443,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: <br>Lattitude: <br>Longitude:",
+    "start_lng": 35.58876,
+    "start_lat": 33.91713,
+    "end_lng": 35.48445,
+    "end_lat": 33.89401,
+    "point_count": 961
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Druze Council\u00a0<br>\u062f\u0627\u0631 \u0637\u0627\u0626\u0641\u0629 \u0627\u0644\u0645\u0648\u062d\u062f\u064a\u0646 \u0627\u0644\u062f\u0631\u0648\u0632<br>Lattitude: 33.89022<br>Longitude: 35.48464",
+    "start_lng": 35.484647,
+    "start_lat": 33.890226,
+    "end_lng": 35.484647,
+    "end_lat": 33.890226,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Druze Council\u00a0<br>\u062f\u0627\u0631 \u0637\u0627\u0626\u0641\u0629 \u0627\u0644\u0645\u0648\u062d\u062f\u064a\u0646 \u0627\u0644\u062f\u0631\u0648\u0632<br>Lattitude: 33.89015<br>Longitude: 35.48457",
+    "start_lng": 35.484571,
+    "start_lat": 33.890155,
+    "end_lng": 35.484571,
+    "end_lat": 33.890155,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: <br>Lattitude: <br>Longitude:",
+    "start_lng": 35.48516,
+    "start_lat": 33.89409,
+    "end_lng": 35.58882,
+    "end_lat": 33.91712,
+    "point_count": 855
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: <br>Lattitude: <br>Longitude:",
+    "start_lng": 35.50748,
+    "start_lat": 33.89652,
+    "end_lng": 35.51953,
+    "end_lat": 33.82931,
+    "point_count": 820
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: <br>Lattitude: <br>Longitude:",
+    "start_lng": 35.51995,
+    "start_lat": 33.82961,
+    "end_lng": 35.50748,
+    "end_lat": 33.8961,
+    "point_count": 628
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Martyrs` Square\u00a0<br>\u0633\u0627\u062d\u0629 \u0627\u0644\u0634\u0647\u062f\u0627\u0621<br>Lattitude: 33.8964892<br>Longitude: 35.5069678",
+    "start_lng": 35.507393,
+    "start_lat": 33.8961196,
+    "end_lng": 35.507393,
+    "end_lat": 33.8961196,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Beirut Souks\u00a0\u00a0<br> \u0623\u0633\u0648\u0627\u0642 \u0628\u064a\u0631\u0648\u062a<br>Lattitude: 33.898309<br>Longitude: 35.5036904",
+    "start_lng": 35.5037928,
+    "start_lat": 33.8983049,
+    "end_lng": 35.5037928,
+    "end_lat": 33.8983049,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: El Murr Tower\u00a0\u00a0<br> \u0628\u0631\u062c \u0627\u0644\u0645\u0631<br>Lattitude: 33.8960798<br>Longitude: 35.4958625",
+    "start_lng": 35.49582,
+    "start_lat": 33.896178,
+    "end_lng": 35.49582,
+    "end_lat": 33.896178,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Central Bank of Lebanon\u00a0\u00a0<br>\u0628\u0646\u0643 \u0644\u0628\u0646\u0627\u0646 \u0627\u0644\u0645\u0631\u0643\u0632\u064a<br>Lattitude: 33.8952259<br>Longitude: 35.4891485",
+    "start_lng": 35.489985,
+    "start_lat": 33.895253,
+    "end_lng": 35.489985,
+    "end_lat": 33.895253,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Spears\u00a0<br> \u0633\u0628\u064a\u0631\u0632<br>Lattitude: 33.8942405<br>Longitude: 35.4882486",
+    "start_lng": 35.48768,
+    "start_lat": 33.894298,
+    "end_lng": 35.48768,
+    "end_lat": 33.894298,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Bechara El Khoury\u00a0\u00a0<br> \u0628\u0634\u0627\u0631\u0629 \u0627\u0644\u062e\u0648\u0631\u064a<br>Lattitude: 33.8873037<br>Longitude: 35.5063418",
+    "start_lng": 35.506342,
+    "start_lat": 33.887304,
+    "end_lng": 35.506342,
+    "end_lat": 33.887304,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Ras El Nabaa\u00a0\u00a0<br> \u0631\u0627\u0633 \u0627\u0644\u0646\u0628\u0639\u200e<br>Lattitude: 33.8823295<br>Longitude: 35.5068354",
+    "start_lng": 35.506835,
+    "start_lat": 33.88233,
+    "end_lng": 35.506835,
+    "end_lat": 33.88233,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Barbar<br>\u0628\u0631\u0628\u064a\u0631\u200e<br><br>Lattitude: 33.8761908<br>Longitude: 35.5077539",
+    "start_lng": 35.5072524,
+    "start_lat": 33.8781239,
+    "end_lng": 35.5072524,
+    "end_lat": 33.8781239,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Military Hospital\u00a0\u00a0<br>\u0627\u0644\u0645\u0633\u062a\u0634\u0641\u0649 \u0627\u0644\u0639\u0633\u0643\u0631\u064a<br>Lattitude: 33.8722416<br>Longitude: 35.5120719",
+    "start_lng": 35.5120961,
+    "start_lat": 33.8722776,
+    "end_lng": 35.5120961,
+    "end_lat": 33.8722776,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Tayouneh\u00a0\u00a0<br> \u0627\u0644\u0637\u064a\u0648\u0646\u0629<br>Lattitude: 33.8699676<br>Longitude: 35.5144386",
+    "start_lng": 35.5143719,
+    "start_lat": 33.8700704,
+    "end_lng": 35.5143719,
+    "end_lat": 33.8700704,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Beirut Mall\u00a0\u00a0<br>\u0628\u064a\u0631\u0648\u062a \u0645\u0648\u0644<br>Lattitude: 33.8674994<br>Longitude: 35.5162379",
+    "start_lng": 35.516238,
+    "start_lat": 33.867499,
+    "end_lng": 35.516238,
+    "end_lat": 33.867499,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Chiayah - Old Saida Road\u00a0\u00a0<br>\u00a0 \u062a\u0642\u0627\u0637\u0639 \u0627\u0644\u0634\u064a\u0627\u062d - \u0637\u0631\u064a\u0642 \u0635\u064a\u062f\u0627 \u0627\u0644\u0642\u062f\u064a\u0645\u0629<br>Lattitude: 33.8645756<br>Longitude: 35.5166677",
+    "start_lng": 35.5167471,
+    "start_lat": 33.8645882,
+    "end_lng": 35.5167471,
+    "end_lat": 33.8645882,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: St.Micheal Church\u00a0<br> \u0643\u0646\u064a\u0633\u0629 \u0645\u0627\u0631 \u0645\u062e\u0627\u064a\u0644<br>Lattitude: 33.8580923<br>Longitude: 35.5195345",
+    "start_lng": 35.51936,
+    "start_lat": 33.857963,
+    "end_lng": 35.51936,
+    "end_lat": 33.857963,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Laylaki Roundabout\u00a0\u00a0<br> \u0645\u0633\u062a\u062f\u064a\u0631\u0629 \u0627\u0644\u0644\u064a\u0644\u0643\u064a<br>Lattitude: 33.8334043<br>Longitude: 35.5172212",
+    "start_lng": 35.517173,
+    "start_lat": 33.833498,
+    "end_lng": 35.517173,
+    "end_lat": 33.833498,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Lebanese University - Hadath\u00a0\u00a0<br>\u0627\u0644\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0644\u0628\u0646\u0627\u0646\u064a\u0629 - \u0627\u0644\u062d\u062f\u062b<br>Lattitude: 33.8293819<br>Longitude: 35.5206412",
+    "start_lng": 35.520641,
+    "start_lat": 33.829382,
+    "end_lng": 35.520641,
+    "end_lat": 33.829382,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Laylaki Roundabout\u00a0\u00a0<br> \u0645\u0633\u062a\u062f\u064a\u0631\u0629 \u0627\u0644\u0644\u064a\u0644\u0643\u064a<br>Lattitude: 33.8333909<br>Longitude: 35.517409",
+    "start_lng": 35.517495,
+    "start_lat": 33.833489,
+    "end_lng": 35.517495,
+    "end_lat": 33.833489,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: St.Micheal Church\u00a0<br> \u0643\u0646\u064a\u0633\u0629 \u0645\u0627\u0631 \u0645\u062e\u0627\u064a\u0644\u00a0<br>Lattitude: 33.8581191<br>Longitude: 35.5193307",
+    "start_lng": 35.51952,
+    "start_lat": 33.85801,
+    "end_lng": 35.51952,
+    "end_lat": 33.85801,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Chiayah - Old Saida Road\u00a0\u00a0<br> \u062a\u0642\u0627\u0637\u0639 \u0627\u0644\u0634\u064a\u0627\u062d - \u0637\u0631\u064a\u0642 \u0635\u064a\u062f\u0627 \u0627\u0644\u0642\u062f\u064a\u0645\u0629<br>Lattitude: 33.8645934<br>Longitude: 35.516893",
+    "start_lng": 35.516893,
+    "start_lat": 33.864593,
+    "end_lng": 35.516893,
+    "end_lat": 33.864593,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Beirut Mall\u00a0\u00a0<br>\u00a0 \u0628\u064a\u0631\u0648\u062a \u0645\u0648\u0644<br>Lattitude: 33.8674994<br>Longitude: 35.5165598",
+    "start_lng": 35.51656,
+    "start_lat": 33.867499,
+    "end_lng": 35.51656,
+    "end_lat": 33.867499,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Tayouneh\u00a0\u00a0<br> \u0627\u0644\u0637\u064a\u0648\u0646\u0629<br>Lattitude: 33.8701814<br>Longitude: 35.5147604",
+    "start_lng": 35.5146822,
+    "start_lat": 33.8702612,
+    "end_lng": 35.5146822,
+    "end_lat": 33.8702612,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Military Hospital\u00a0\u00a0<br>\u0627\u0644\u0645\u0633\u062a\u0634\u0641\u0649 \u0627\u0644\u0639\u0633\u0643\u0631\u064a<br>Lattitude: 33.8724019<br>Longitude: 35.5122864",
+    "start_lng": 35.5122203,
+    "start_lat": 33.8723664,
+    "end_lng": 35.5122203,
+    "end_lat": 33.8723664,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Barbar<br>\u0628\u0631\u0628\u064a\u0631\u200e<br>Lattitude: 33.8762887<br>Longitude: 35.5079792",
+    "start_lng": 35.5074238,
+    "start_lat": 33.8781373,
+    "end_lng": 35.5074238,
+    "end_lat": 33.8781373,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Ras El Nabaa\u00a0\u00a0<br>\u00a0\u0631\u0627\u0633 \u0627\u0644\u0646\u0628\u0639\u200e<br>Lattitude: 33.88236637<br>Longitude: 35.50709434",
+    "start_lng": 35.507094,
+    "start_lat": 33.882366,
+    "end_lng": 35.507094,
+    "end_lat": 33.882366,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Bechara El Khoury\u00a0\u00a0<br>\u0628\u0634\u0627\u0631\u0629 \u0627\u0644\u062e\u0648\u0631\u064a<br>Lattitude: 33.887179<br>Longitude: 35.5066637",
+    "start_lng": 35.506664,
+    "start_lat": 33.887179,
+    "end_lng": 35.506664,
+    "end_lat": 33.887179,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Martyrs` Square\u00a0\u00a0<br>\u00a0\u0633\u0627\u062d\u0629 \u0627\u0644\u0634\u0647\u062f\u0627\u0621<br>Lattitude: 33.8963387<br>Longitude: 35.5074773",
+    "start_lng": 35.5073939,
+    "start_lat": 33.8961208,
+    "end_lng": 35.5073939,
+    "end_lat": 33.8961208,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Lebanese University - Fanar\u00a0<br>\u0627\u0644\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0644\u0628\u0646\u0627\u0646\u064a\u0629 - \u0627\u0644\u0641\u0646\u0627\u0631<br>Lattitude: 33.87084757<br>Longitude: 35.5788691",
+    "start_lng": 35.578747,
+    "start_lat": 33.8707934,
+    "end_lng": 35.578747,
+    "end_lat": 33.8707934,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Le Charcutier\u00a0<br>\u0644\u0648 \u0634\u0627\u0631\u0643\u0648\u062a\u064a\u0647<br>Lattitude: 33.8741656<br>Longitude: 35.5802791",
+    "start_lng": 35.580279,
+    "start_lat": 33.874166,
+    "end_lng": 35.580279,
+    "end_lat": 33.874166,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Bonjus Company\u00a0<br> \u0634\u0631\u0643\u0629 \u0628\u0648\u0646\u062c\u0648\u0633<br>Lattitude: 33.8837495<br>Longitude: 35.5715094",
+    "start_lng": 35.571509,
+    "start_lat": 33.88375,
+    "end_lng": 35.571509,
+    "end_lat": 33.88375,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Palace of justice - Jdeideh\u00a0<br>\u0642\u0635\u0631 \u0639\u062f\u0644 \u0627\u0644\u062c\u062f\u064a\u062f\u0629<br>Lattitude: 33.8871025<br>Longitude: 35.5710811",
+    "start_lng": 35.571081,
+    "start_lat": 33.887102,
+    "end_lng": 35.571081,
+    "end_lat": 33.887102,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Jdeideh Municipality\u00a0<br>\u0628\u0644\u062f\u064a\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629<br>Lattitude: 33.8920972<br>Longitude: 35.5628324",
+    "start_lng": 35.5628159,
+    "start_lat": 33.8920814,
+    "end_lng": 35.5628159,
+    "end_lat": 33.8920814,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Bourj Hammoud - Red Cross\u00a0<br>\u0628\u0631\u062c \u062d\u0645\u0648\u062f - \u0627\u0644\u0635\u0644\u064a\u0628 \u0627\u0644\u0623\u062d\u0645\u0631<br>Lattitude: 33.8898631<br>Longitude: 35.5396083",
+    "start_lng": 35.539608,
+    "start_lat": 33.889863,
+    "end_lng": 35.539608,
+    "end_lat": 33.889863,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Sassine Square\u00a0<br> \u0633\u0627\u062d\u0629 \u0633\u0627\u0633\u064a\u0646<br>Lattitude: 33.8873918<br>Longitude: 35.5209241",
+    "start_lng": 35.5207926,
+    "start_lat": 33.8873285,
+    "end_lng": 35.5207926,
+    "end_lat": 33.8873285,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Sodeco\u00a0<br> \u0633\u0648\u062f\u064a\u0643\u0648<br>Lattitude: 33.8867993<br>Longitude: 35.5083527",
+    "start_lng": 35.5083597,
+    "start_lat": 33.8867706,
+    "end_lng": 35.5083597,
+    "end_lat": 33.8867706,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Bechara El Khoury<br> \u0628\u0634\u0627\u0631\u0629 \u0627\u0644\u062e\u0648\u0631\u064a<br>Lattitude: 33.8870181<br>Longitude: 35.506416",
+    "start_lng": 35.5064227,
+    "start_lat": 33.8870525,
+    "end_lng": 35.5064227,
+    "end_lat": 33.8870525,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Al Basta Bridge\u00a0<br>\u062c\u0633\u0631 \u0627\u0644\u0628\u0633\u0637\u0627<br>Lattitude: 33.888549<br>Longitude: 35.502786",
+    "start_lng": 35.5027565,
+    "start_lat": 33.888559,
+    "end_lng": 35.5027565,
+    "end_lat": 33.888559,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: El Hoss\u00a0<br>\u0627\u0644\u062d\u0635<br>Lattitude: 33.8907031<br>Longitude: 35.4876186",
+    "start_lng": 35.4876002,
+    "start_lat": 33.890723,
+    "end_lng": 35.4876002,
+    "end_lat": 33.890723,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Hamra - Barbar\u00a0<br>\u0627\u0644\u062d\u0645\u0631\u0627 - \u0628\u0631\u0628\u0631 \u200e<br>Lattitude: 33.8943046<br>Longitude: 35.4876639",
+    "start_lng": 35.485089,
+    "start_lat": 33.894074,
+    "end_lng": 35.485089,
+    "end_lat": 33.894074,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Druze Council\u00a0<br>\u062f\u0627\u0631 \u0637\u0627\u0626\u0641\u0629 \u0627\u0644\u0645\u0648\u062d\u062f\u064a\u0646 \u0627\u0644\u062f\u0631\u0648\u0632\u200e\u200e<br>Lattitude: 33.8901367<br>Longitude: 35.4846722",
+    "start_lng": 35.4845757,
+    "start_lat": 33.8901557,
+    "end_lng": 35.4845757,
+    "end_lat": 33.8901557,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: El Hoss\u00a0<br> \u0627\u0644\u062d\u0635<br>Lattitude: 33.8902027<br>Longitude: 35.4875803",
+    "start_lng": 35.4876202,
+    "start_lat": 33.8901741,
+    "end_lng": 35.4876202,
+    "end_lat": 33.8901741,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Al Basta Bridge\u00a0<br> \u062c\u0633\u0631 \u0627\u0644\u0628\u0633\u0637\u0627<br>Lattitude: 33.8883575<br>Longitude: 35.5027538",
+    "start_lng": 35.5027634,
+    "start_lat": 33.8884036,
+    "end_lng": 35.5027634,
+    "end_lat": 33.8884036,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Bechara El Khoury\u00a0<br>\u0628\u0634\u0627\u0631\u0629 \u0627\u0644\u062e\u0648\u0631\u064a<br>Lattitude: 33.8872363<br>Longitude: 35.5064321",
+    "start_lng": 35.506381,
+    "start_lat": 33.8872371,
+    "end_lng": 35.506381,
+    "end_lat": 33.8872371,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Sodeco\u00a0<br> \u0633\u0648\u062f\u064a\u0643\u0648<br>Lattitude: 33.8866123<br>Longitude: 35.508401",
+    "start_lng": 35.508393,
+    "start_lat": 33.8866632,
+    "end_lng": 35.508393,
+    "end_lat": 33.8866632,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Sassine Square\u00a0<br> \u0633\u0627\u062d\u0629 \u0633\u0627\u0633\u064a\u0646<br>Lattitude: 33.8872271<br>Longitude: 35.5209777",
+    "start_lng": 35.5208412,
+    "start_lat": 33.8872159,
+    "end_lng": 35.5208412,
+    "end_lat": 33.8872159,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Bourj Hammoud Bridge\u00a0<br>\u062c\u0633\u0631 \u0628\u0631\u062c \u062d\u0645\u0648\u062f<br>Lattitude: 33.8885707<br>Longitude: 35.5430185",
+    "start_lng": 35.543018,
+    "start_lat": 33.888571,
+    "end_lng": 35.543018,
+    "end_lat": 33.888571,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Hankach Street\u00a0<br>\u0634\u0627\u0631\u0639 \u062d\u0646\u0643\u0634<br>Lattitude: 33.8901675<br>Longitude: 35.5538185",
+    "start_lng": 35.553818,
+    "start_lat": 33.890168,
+    "end_lng": 35.553818,
+    "end_lat": 33.890168,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Jdeideh Municipality\u00a0<br> \u0628\u0644\u062f\u064a\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629<br>Lattitude: 33.8917499<br>Longitude: 35.5627895",
+    "start_lng": 35.5627162,
+    "start_lat": 33.8917845,
+    "end_lng": 35.5627162,
+    "end_lat": 33.8917845,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Palace of justice - Jdeideh\u00a0<br>\u0642\u0635\u0631 \u0627\u0644\u0639\u062f\u0644 \u0627\u0644\u062c\u062f\u064a\u062f\u0629<br>Lattitude: 33.8872155<br>Longitude: 35.5709563",
+    "start_lng": 35.570956,
+    "start_lat": 33.887216,
+    "end_lng": 35.570956,
+    "end_lat": 33.887216,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Pharmacie Rana - Fanar\u00a0<br>\u0635\u064a\u062f\u0644\u064a\u0629 \u0631\u0646\u0627 - \u0627\u0644\u0641\u0646\u0627\u0631<br>Lattitude: 33.8808345<br>Longitude: 35.5739236",
+    "start_lng": 35.573924,
+    "start_lat": 33.880834,
+    "end_lng": 35.573924,
+    "end_lat": 33.880834,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Lebanese University - Fanar\u00a0<br>\u0627\u0644\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0644\u0628\u0646\u0627\u0646\u064a\u0629 - \u0627\u0644\u0641\u0646\u0627\u0631<br>Lattitude: 33.8707247<br>Longitude: 35.5786612",
+    "start_lng": 35.5786932,
+    "start_lat": 33.8707695,
+    "end_lng": 35.5786932,
+    "end_lat": 33.8707695,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Druze Council\u00a0<br>\u062f\u0627\u0631 \u0637\u0627\u0626\u0641\u0629 \u0627\u0644\u0645\u0648\u062d\u062f\u064a\u0646 \u0627\u0644\u062f\u0631\u0648\u0632<br>Lattitude: 33.89019<br>Longitude: 35.48468",
+    "start_lng": 35.4846458,
+    "start_lat": 33.8902279,
+    "end_lng": 35.4846458,
+    "end_lat": 33.8902279,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: <br>Lattitude: <br>Longitude:",
+    "start_lng": 35.57872,
+    "start_lat": 33.87079,
+    "end_lng": 35.48491,
+    "end_lat": 33.89406,
+    "point_count": 697
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: <br>Lattitude: <br>Longitude:",
+    "start_lng": 35.48536,
+    "start_lat": 33.89412,
+    "end_lng": 35.57857,
+    "end_lat": 33.8711,
+    "point_count": 656
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: <br>Lattitude: <br>Longitude:",
+    "start_lng": 35.50736,
+    "start_lat": 33.89613,
+    "end_lng": 35.5072,
+    "end_lat": 33.8956,
+    "point_count": 1173
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Martyrs` Square\u00a0<br>\u0633\u0627\u062d\u0629 \u0627\u0644\u0634\u0647\u062f\u0627\u0621<br>Lattitude: 33.8966851<br>Longitude: 35.5094891",
+    "start_lng": 35.5073944,
+    "start_lat": 33.8961187,
+    "end_lng": 35.5073944,
+    "end_lat": 33.8961187,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Beirut Souks\u00a0<br>\u0623\u0633\u0648\u0627\u0642 \u0628\u064a\u0631\u0648\u062a<br>Lattitude: 33.8983045<br>Longitude: 35.5038084",
+    "start_lng": 35.503808,
+    "start_lat": 33.898304,
+    "end_lng": 35.503808,
+    "end_lat": 33.898304,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: El Murr Tower\u00a0<br>\u0628\u0631\u062c \u0627\u0644\u0645\u0631<br>Lattitude: 33.8958749<br>Longitude: 35.4958625",
+    "start_lng": 35.4958191,
+    "start_lat": 33.8961778,
+    "end_lng": 35.4958191,
+    "end_lat": 33.8961778,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Corniche El Mazraa - Cola Intersection\u00a0<br>\u062a\u0642\u0627\u0637\u0639 \u0643\u0648\u0631\u0646\u064a\u0634 \u0627\u0644\u0645\u0632\u0631\u0639\u0629 - \u0627\u0644\u0643\u0648\u0644\u0627<br>Lattitude: 33.8793798<br>Longitude: 35.495185",
+    "start_lng": 35.4952252,
+    "start_lat": 33.8793488,
+    "end_lng": 35.4952252,
+    "end_lat": 33.8793488,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Embassy of Kuwait Roundabout\u00a0<br> \u0645\u0633\u062a\u062f\u064a\u0631\u0629 \u0627\u0644\u0633\u0641\u0627\u0631\u0629 \u0627\u0644\u0643\u0648\u064a\u062a\u064a\u0629<br>Lattitude: 33.8571799<br>Longitude: 35.4933389",
+    "start_lng": 35.493339,
+    "start_lat": 33.85718,
+    "end_lng": 35.493339,
+    "end_lat": 33.85718,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Beirut - Saida Highway\u00a0<br> \u0637\u0631\u064a\u0642 \u0628\u064a\u0631\u0648\u062a - \u0635\u064a\u062f\u0627 \u0627\u0644\u0633\u0631\u064a\u0639<br>Lattitude: 33.8455497<br>Longitude: 35.4850703",
+    "start_lng": 35.48507,
+    "start_lat": 33.84555,
+    "end_lng": 35.48507,
+    "end_lat": 33.84555,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Khalde\u00a0<br> \u062e\u0644\u062f\u0629<br>Lattitude: 33.7875752<br>Longitude: 35.4790763",
+    "start_lng": 35.479076,
+    "start_lat": 33.787575,
+    "end_lng": 35.479076,
+    "end_lat": 33.787575,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Douha\u00a0<br> \u062f\u0648\u062d\u0629<br>Lattitude: 33.7619394<br>Longitude: 35.4598118",
+    "start_lng": 35.459812,
+    "start_lat": 33.761939,
+    "end_lng": 35.459812,
+    "end_lat": 33.761939,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Naameh\u00a0<br>\u0646\u0627\u0639\u0645\u0629<br>Lattitude: 33.74481799<br>Longitude: 35.45446817",
+    "start_lng": 35.454468,
+    "start_lat": 33.744818,
+    "end_lng": 35.454468,
+    "end_lat": 33.744818,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Haret El Naameh\u00a0<br> \u062d\u0627\u0631\u0629 \u0627\u0644\u0646\u0627\u0639\u0645\u0647\u200e<br>Lattitude: 33.7391426<br>Longitude: 35.4549275",
+    "start_lng": 35.454928,
+    "start_lat": 33.739143,
+    "end_lng": 35.454928,
+    "end_lat": 33.739143,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Damour\u00a0<br>\u062f\u0627\u0645\u0648\u0631<br>Lattitude: 33.7309133<br>Longitude: 35.4545662",
+    "start_lng": 35.454566,
+    "start_lat": 33.730913,
+    "end_lng": 35.454566,
+    "end_lat": 33.730913,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Damour\u00a0<br>\u062f\u0627\u0645\u0648\u0631<br>Lattitude: 33.73087154769499,<br>Longitude: 35.45461137",
+    "start_lng": 35.45335,
+    "start_lat": 33.724956,
+    "end_lng": 35.45335,
+    "end_lat": 33.724956,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Douha\u00a0<br> \u062f\u0648\u062d\u0629<br>Lattitude: 33.7617877<br>Longitude: 35.46008",
+    "start_lng": 35.46008,
+    "start_lat": 33.761788,
+    "end_lng": 35.46008,
+    "end_lat": 33.761788,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Khalde\u00a0<br> \u062e\u0644\u062f\u0629<br>Lattitude: 33.7872186<br>Longitude: 35.4793499",
+    "start_lng": 35.47935,
+    "start_lat": 33.787219,
+    "end_lng": 35.47935,
+    "end_lat": 33.787219,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Ouzai<br> \u0623\u0648\u0632\u0627\u0639\u064a<br>Lattitude: 33.845523<br>Longitude: 35.4848128",
+    "start_lng": 35.484813,
+    "start_lat": 33.845523,
+    "end_lng": 35.484813,
+    "end_lat": 33.845523,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Embassy of Kuwait Roundabout\u00a0<br>\u0645\u0633\u062a\u062f\u064a\u0631\u0629 \u0627\u0644\u0633\u0641\u0627\u0631\u0629 \u0627\u0644\u0643\u0648\u064a\u062a\u064a\u0629<br>Lattitude: 33.8564493<br>Longitude: 35.4931887",
+    "start_lng": 35.493189,
+    "start_lat": 33.856449,
+    "end_lng": 35.493189,
+    "end_lat": 33.856449,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Corniche El Mazraa - Cola Intersection\u00a0<br>\u062a\u0642\u0627\u0637\u0639 \u0643\u0648\u0631\u0646\u064a\u0634 \u0627\u0644\u0645\u0632\u0631\u0639\u0629 - \u0627\u0644\u0643\u0648\u0644\u0627<br>Lattitude: 33.8792195<br>Longitude: 35.4953674",
+    "start_lng": 35.495308,
+    "start_lat": 33.8793258,
+    "end_lng": 35.495308,
+    "end_lat": 33.8793258,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Omar Daaouk Street\u00a0<br>\u0634\u0627\u0631\u0639 \u0639\u0645\u0631 \u0627\u0644\u062f\u0627\u0639\u0648\u0642<br>Lattitude: 33.8980475<br>Longitude: 35.4974472",
+    "start_lng": 35.497447,
+    "start_lat": 33.898048,
+    "end_lng": 35.497447,
+    "end_lat": 33.898048,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Martyrs` Square\u00a0<br>\u0633\u0627\u062d\u0629 \u0627\u0644\u0634\u0647\u062f\u0627\u0621<br>Lattitude: 33.8959282<br>Longitude: 35.5093388",
+    "start_lng": 35.507392,
+    "start_lat": 33.89612,
+    "end_lng": 35.507392,
+    "end_lat": 33.89612,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Description: Martyrs` Square\u00a0<br> \u0633\u0627\u062d\u0629 \u0627\u0644\u0634\u0647\u062f\u0627\u0621<br>Lattitude: 33.89616<br>Longitude: 35.50741",
+    "start_lng": 35.5073925,
+    "start_lat": 33.8961178,
+    "end_lng": 35.5073925,
+    "end_lat": 33.8961178,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: <br>Lattitude: <br>Longitude:",
+    "start_lng": 35.52035,
+    "start_lat": 33.87883,
+    "end_lng": 35.85826,
+    "end_lat": 33.81537,
+    "point_count": 1268
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: <br>Lattitude: <br>Longitude:",
+    "start_lng": 35.85824,
+    "start_lat": 33.81545,
+    "end_lng": 35.52047,
+    "end_lat": 33.87891,
+    "point_count": 1337
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Adliyeh Roundabout<br>\u0645\u0633\u062a\u062f\u064a\u0631\u0629 \u0627\u0644\u0639\u062f\u0644\u064a\u0629<br>Lattitude: 33.878836<br>Longitude: 35.520767",
+    "start_lng": 35.520767,
+    "start_lat": 33.878836,
+    "end_lng": 35.520767,
+    "end_lat": 33.878836,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Al Sayad<br>\u0627\u0644\u0635\u064a\u0627\u062f<br>Lattitude: 33.854135<br>Longitude: 35.53584",
+    "start_lng": 35.53584,
+    "start_lat": 33.854135,
+    "end_lng": 35.53584,
+    "end_lat": 33.854135,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Military Academy\u00a0Intersection<br> \u062a\u0642\u0627\u0637\u0639 \u0627\u0644\u0643\u0644\u064a\u0629 \u0627\u0644\u062d\u0631\u0628\u064a\u0629<br>Lattitude: 33.848786<br>Longitude: 35.54908",
+    "start_lng": 35.54908,
+    "start_lat": 33.848786,
+    "end_lng": 35.54908,
+    "end_lat": 33.848786,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Ministry of Defense\u00a0Intersection<br>\u062a\u0642\u0627\u0637\u0639 \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0641\u0627\u0639<br>Lattitude: 33.840255<br>Longitude: 35.558934",
+    "start_lng": 35.558934,
+    "start_lat": 33.840255,
+    "end_lng": 35.558934,
+    "end_lat": 33.840255,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Bsous Intersection<br>\u062a\u0642\u0627\u0637\u0639 \u0628\u0633\u0648\u0633<br>Lattitude: 33.829311<br>Longitude: 35.572307",
+    "start_lng": 35.572307,
+    "start_lat": 33.829311,
+    "end_lng": 35.572307,
+    "end_lat": 33.829311,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Aaraiya Intersection<br>\u062a\u0642\u0627\u0637\u0639 \u0639\u0627\u0631\u064a\u0627<br>Lattitude: 33.830564<br>Longitude: 35.58428",
+    "start_lng": 35.58428,
+    "start_lat": 33.830564,
+    "end_lng": 35.58428,
+    "end_lat": 33.830564,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Dahr El Wahech<br>\u062a\u0642\u0627\u0637\u0639 \u0627\u0644\u0643\u0644\u064a\u0629 \u0627\u0644\u062d\u0631\u0628\u064a\u0629<br>Lattitude: 33.824642<br>Longitude: 35.597639",
+    "start_lng": 35.597639,
+    "start_lat": 33.824642,
+    "end_lng": 35.597639,
+    "end_lat": 33.824642,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Aabadiyeh Intersection<br>\u062a\u0642\u0627\u0637\u0639 \u0627\u0644\u0639\u0628\u0627\u062f\u064a\u0629<br>Lattitude: 33.817246<br>Longitude: 35.607125",
+    "start_lng": 35.607125,
+    "start_lat": 33.817246,
+    "end_lng": 35.607125,
+    "end_lat": 33.817246,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Aley Roundabout<br>\u0645\u0633\u062a\u062f\u064a\u0631\u0629 \u0639\u0627\u0644\u064a\u0647<br>Lattitude: 33.814217<br>Longitude: 35.608785",
+    "start_lng": 35.608785,
+    "start_lat": 33.814217,
+    "end_lng": 35.608785,
+    "end_lat": 33.814217,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Jdideh Intersection<br>\u062a\u0642\u0627\u0637\u0639 \u0639\u064a\u0646 \u0627\u0644\u062c\u062f\u064a\u062f\u0629<br>Lattitude: 33.812973<br>Longitude: 35.619942",
+    "start_lng": 35.619942,
+    "start_lat": 33.812973,
+    "end_lng": 35.619942,
+    "end_lat": 33.812973,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Baalchmay<br>\u0628\u0639\u0644\u0634\u0645\u064a<br>Lattitude: 33.81214<br>Longitude: 35.639001",
+    "start_lng": 35.639001,
+    "start_lat": 33.81214,
+    "end_lng": 35.639001,
+    "end_lat": 33.81214,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Bhamdoun<br>\u0628\u062d\u0645\u062f\u0648\u0646<br>Lattitude: 33.8100231<br>Longitude: 35.6556959",
+    "start_lng": 35.655696,
+    "start_lat": 33.810023,
+    "end_lng": 35.655696,
+    "end_lat": 33.810023,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Hammana Intersection<br>\u062a\u0642\u0627\u0637\u0639 \u062d\u0645\u0627\u0646\u0627<br>Lattitude: 33.8068308<br>Longitude: 35.6615816",
+    "start_lng": 35.661582,
+    "start_lat": 33.806831,
+    "end_lng": 35.661582,
+    "end_lat": 33.806831,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Bhamdoun El Dayaa Intersection<br>\u062a\u0642\u0627\u0637\u0639 \u0628\u062d\u0645\u062f\u0648\u0646 \u0627\u0644\u0636\u064a\u0639\u0629<br>Lattitude: 33.8050965<br>Longitude: 35.6623234",
+    "start_lng": 35.662323,
+    "start_lat": 33.805096,
+    "end_lng": 35.662323,
+    "end_lat": 33.805096,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Chanai Intersection<br>\u062a\u0642\u0627\u0637\u0639 \u0634\u0627\u0646\u0627\u064a<br>Lattitude: 33.8003<br>Longitude: 35.670284",
+    "start_lng": 35.670284,
+    "start_lat": 33.8003,
+    "end_lng": 35.670284,
+    "end_lat": 33.8003,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Majdal Baana Intersection<br>\u062a\u0642\u0627\u0637\u0639 \u0645\u062c\u062f\u0644 \u0627\u0644\u0628\u0639\u0646\u0627<br>Lattitude: 33.7986343<br>Longitude: 35.6816047",
+    "start_lng": 35.681605,
+    "start_lat": 33.798634,
+    "end_lng": 35.681605,
+    "end_lat": 33.798634,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Saoufar<br>\u0635\u0648\u0641\u0631\u200e<br>Lattitude: 33.8026383<br>Longitude: 35.6988757",
+    "start_lng": 35.698876,
+    "start_lat": 33.802638,
+    "end_lng": 35.698876,
+    "end_lat": 33.802638,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Falougha Intersection<br>\u062a\u0642\u0627\u0637\u0639 \u0641\u0627\u0644\u0648\u063a\u0627<br>Lattitude: 33.799306<br>Longitude: 35.734604",
+    "start_lng": 35.734604,
+    "start_lat": 33.799306,
+    "end_lng": 35.734604,
+    "end_lat": 33.799306,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Daher El Baydar<br>\u0636\u0647\u0631 \u0627\u0644\u0628\u064a\u062f\u0631<br>Lattitude: 33.809734<br>Longitude: 35.767582",
+    "start_lng": 35.767582,
+    "start_lat": 33.809734,
+    "end_lng": 35.767582,
+    "end_lat": 33.809734,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: El Namliye Bridge<br>\u062c\u0633\u0631 \u0627\u0644\u0646\u0645\u0644\u064a\u0629<br>Lattitude: 33.813903<br>Longitude: 35.778222",
+    "start_lng": 35.778222,
+    "start_lat": 33.813903,
+    "end_lng": 35.778222,
+    "end_lat": 33.813903,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Mrayjat<br>\u0645\u0631\u064a\u062c\u0627\u062a<br>Lattitude: 33.809407<br>Longitude: 35.81785",
+    "start_lng": 35.81785,
+    "start_lat": 33.809407,
+    "end_lng": 35.81785,
+    "end_lat": 33.809407,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Qob Elias Intersection<br>\u062a\u0642\u0627\u0637\u0639 \u0642\u0628 \u0627\u0644\u064a\u0627\u0633<br>Lattitude: 33.816941<br>Longitude: 35.838209",
+    "start_lng": 35.838209,
+    "start_lat": 33.816941,
+    "end_lng": 35.838209,
+    "end_lat": 33.816941,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: West Bekaa Intersection<br>\u062a\u0642\u0627\u0637\u0639 \u0627\u0644\u0628\u0642\u0627\u0639 \u0627\u0644\u063a\u0631\u0628\u064a<br>Lattitude: 33.817731<br>Longitude: 35.84574",
+    "start_lng": 35.84574,
+    "start_lat": 33.817731,
+    "end_lng": 35.84574,
+    "end_lat": 33.817731,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Chtaura Roundabout<br>\u00a0\u0645\u0633\u062a\u062f\u064a\u0631\u0629 \u0634\u062a\u0648\u0631\u0629<br>Lattitude: 33.815318<br>Longitude: 35.858276",
+    "start_lng": 35.858276,
+    "start_lat": 33.815318,
+    "end_lng": 35.858276,
+    "end_lat": 33.815318,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Chtaura Roundabout<br> \u0645\u0633\u062a\u062f\u064a\u0631\u0629 \u0634\u062a\u0648\u0631\u0629<br>Lattitude: 33.815439<br>Longitude: 35.858002",
+    "start_lng": 35.858002,
+    "start_lat": 33.815439,
+    "end_lng": 35.858002,
+    "end_lat": 33.815439,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Jdita Intersection<br>\u062a\u0642\u0627\u0637\u0639 \u062c\u062f\u064a\u062a\u0627<br>Lattitude: 33.817681<br>Longitude: 35.847726",
+    "start_lng": 35.847726,
+    "start_lat": 33.817681,
+    "end_lng": 35.847726,
+    "end_lat": 33.817681,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: West Bekaa Intersection<br>\u062a\u0642\u0627\u0637\u0639 \u0627\u0644\u0628\u0642\u0627\u0639 \u0627\u0644\u063a\u0631\u0628\u064a<br>Lattitude: 33.817817<br>Longitude: 35.845459",
+    "start_lng": 35.845459,
+    "start_lat": 33.817817,
+    "end_lng": 35.845459,
+    "end_lat": 33.817817,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Qob Elias Intersection<br>\u062a\u0642\u0627\u0637\u0639 \u0642\u0628 \u0627\u0644\u064a\u0627\u0633<br>Lattitude: 33.817038<br>Longitude: 35.838253",
+    "start_lng": 35.838253,
+    "start_lat": 33.817038,
+    "end_lng": 35.838253,
+    "end_lat": 33.817038,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Mrayjat<br>\u0645\u0631\u064a\u062c\u0627\u062a<br>Lattitude: 33.809589<br>Longitude: 35.817835",
+    "start_lng": 35.817835,
+    "start_lat": 33.809589,
+    "end_lng": 35.817835,
+    "end_lat": 33.809589,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Daher El Baydar<br>\u0636\u0647\u0631 \u0627\u0644\u0628\u064a\u062f\u0631<br>Lattitude: 33.809829<br>Longitude: 35.767533",
+    "start_lng": 35.767533,
+    "start_lat": 33.809829,
+    "end_lng": 35.767533,
+    "end_lat": 33.809829,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Falougha Intersection<br>\u062a\u0642\u0627\u0637\u0639 \u0641\u0627\u0644\u0648\u063a\u0627<br>Lattitude: 33.799432<br>Longitude: 35.734515",
+    "start_lng": 35.734515,
+    "start_lat": 33.799432,
+    "end_lng": 35.734515,
+    "end_lat": 33.799432,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Saoufar<br>\u0635\u0648\u0641\u0631\u200e<br>Lattitude: 33.802697<br>Longitude: 35.6988904",
+    "start_lng": 35.69889,
+    "start_lat": 33.802697,
+    "end_lng": 35.69889,
+    "end_lat": 33.802697,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Bhamdoun El Dayaa Intersection<br>\u062a\u0642\u0627\u0637\u0639 \u0628\u062d\u0645\u062f\u0648\u0646 \u0627\u0644\u0636\u064a\u0639\u0629<br>Lattitude: 33.8052378<br>Longitude: 35.6624921",
+    "start_lng": 35.662492,
+    "start_lat": 33.805238,
+    "end_lng": 35.662492,
+    "end_lat": 33.805238,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Hammana Intersection<br>\u062a\u0642\u0627\u0637\u0639 \u062d\u0645\u0627\u0646\u0627<br>Lattitude: 33.8068525<br>Longitude: 35.6616422",
+    "start_lng": 35.661642,
+    "start_lat": 33.806852,
+    "end_lng": 35.661642,
+    "end_lat": 33.806852,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Bhamdoun<br>\u0628\u062d\u0645\u062f\u0648\u0646<br>Lattitude: 33.8101125<br>Longitude: 35.6556785",
+    "start_lng": 35.655678,
+    "start_lat": 33.810112,
+    "end_lng": 35.655678,
+    "end_lat": 33.810112,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Ain El Jdideh Intersection<br>\u062a\u0642\u0627\u0637\u0639 \u0639\u064a\u0646 \u0627\u0644\u062c\u062f\u064a\u062f\u0629<br>Lattitude: 33.81381<br>Longitude: 35.621177",
+    "start_lng": 35.621177,
+    "start_lat": 33.81381,
+    "end_lng": 35.621177,
+    "end_lat": 33.81381,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Aley Roundabout<br>\u0645\u0633\u062a\u062f\u064a\u0631\u0629 \u0639\u0627\u0644\u064a\u0647<br>Lattitude: 33.814286<br>Longitude: 35.609215",
+    "start_lng": 35.609215,
+    "start_lat": 33.814286,
+    "end_lng": 35.609215,
+    "end_lat": 33.814286,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Kahaleh<br>\u0643\u062d\u0627\u0644\u0629<br>Lattitude: 33.829097<br>Longitude: 35.587047",
+    "start_lng": 35.587047,
+    "start_lat": 33.829097,
+    "end_lng": 35.587047,
+    "end_lat": 33.829097,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Aaraiya Intersection<br>\u062a\u0642\u0627\u0637\u0639 \u0639\u0627\u0631\u064a\u0627<br>Lattitude: 33.830575<br>Longitude: 35.584426",
+    "start_lng": 35.584426,
+    "start_lat": 33.830575,
+    "end_lng": 35.584426,
+    "end_lat": 33.830575,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Bsous Intersection<br>\u062a\u0642\u0627\u0637\u0639 \u0628\u0633\u0648\u0633<br>Lattitude: 33.829918<br>Longitude: 35.572044",
+    "start_lng": 35.572044,
+    "start_lat": 33.829918,
+    "end_lng": 35.572044,
+    "end_lat": 33.829918,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Ministry of Defense Intersection<br>\u062a\u0642\u0627\u0637\u0639 \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0641\u0627\u0639<br>Lattitude: 33.840106<br>Longitude: 35.559396",
+    "start_lng": 35.559396,
+    "start_lat": 33.840106,
+    "end_lng": 35.559396,
+    "end_lat": 33.840106,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Military Academy\u00a0Intersection<br>\u00a0\u062a\u0642\u0627\u0637\u0639 \u0627\u0644\u0643\u0644\u064a\u0629 \u0627\u0644\u062d\u0631\u0628\u064a\u0629\u00a0<br>Lattitude: 33.848845<br>Longitude: 35.549504",
+    "start_lng": 35.549504,
+    "start_lat": 33.848845,
+    "end_lng": 35.549504,
+    "end_lat": 33.848845,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Adliyeh Roundabout<br>\u0645\u0633\u062a\u062f\u064a\u0631\u0629 \u0627\u0644\u0639\u062f\u0644\u064a\u0629<br>Lattitude: 33.87889<br>Longitude: 35.520874",
+    "start_lng": 35.520874,
+    "start_lat": 33.87889,
+    "end_lng": 35.520874,
+    "end_lat": 33.87889,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "",
+    "start_lng": 35.55069,
+    "start_lat": 33.89389,
+    "end_lng": 35.53613,
+    "end_lat": 33.88984,
+    "point_count": 108
+  },
+  {
+    "name": "Unknown Route",
+    "description": "",
+    "start_lng": 35.54144,
+    "start_lat": 33.83467,
+    "end_lng": 35.55107,
+    "end_lat": 33.89344,
+    "point_count": 578
+  },
+  {
+    "name": "Unknown Route",
+    "description": "",
+    "start_lng": 35.53613,
+    "start_lat": 33.88985,
+    "end_lng": 35.54144,
+    "end_lat": 33.83468,
+    "point_count": 978
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Dora Roundabout \n\u0645\u0633\u062a\u062f\u064a\u0631\u0629 \u0627\u0644\u062f\u0648\u0631\u0629",
+    "start_lng": 35.5505738,
+    "start_lat": 33.8938675,
+    "end_lng": 35.5505738,
+    "end_lat": 33.8938675,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Dora - Pedestrian Bridge \n\u062c\u0633\u0631 \u0627\u0644\u0645\u0634\u0627\u0629 - \u0627\u0644\u062f\u0648\u0631\u0629\u200e",
+    "start_lng": 35.546509,
+    "start_lat": 33.894826,
+    "end_lng": 35.546509,
+    "end_lat": 33.894826,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Bourj Hammoud- Pedestrian Bridge \n\u062c\u0633\u0631 \u0627\u0644\u0645\u0634\u0627\u0629 - \u0628\u0631\u062c \u062d\u0645\u0648\u062f",
+    "start_lng": 35.5409939,
+    "start_lat": 33.8962057,
+    "end_lng": 35.5409939,
+    "end_lat": 33.8962057,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Abou Artine Gas Station \n\u0645\u062d\u0637\u0629 \u0623\u0628\u0648 \u0627\u0631\u062a\u064a\u0646",
+    "start_lng": 35.547614,
+    "start_lat": 33.891523,
+    "end_lng": 35.547614,
+    "end_lat": 33.891523,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Mirna Chalouhi \n\u0645\u064a\u0631\u0646\u0627 \u0627\u0644\u0634\u0627\u0644\u0648\u062d\u064a",
+    "start_lng": 35.54879,
+    "start_lat": 33.886485,
+    "end_lng": 35.54879,
+    "end_lat": 33.886485,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Sin El Fil - Habtour Intersection \n\u062a\u0642\u0627\u0637\u0639 \u0633\u0646 \u0627\u0644\u0641\u064a\u0644 - \u0627\u0644\u062d\u0628\u062a\u0648\u0631",
+    "start_lng": 35.536275,
+    "start_lat": 33.869974,
+    "end_lng": 35.536275,
+    "end_lat": 33.869974,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Chevrolet - Alfa Intersection \n\u062a\u0642\u0627\u0637\u0639 \u0627\u0644\u0634\u064a\u0641\u0631\u0648\u0644\u064a\u0647 - \u0623\u0644\u0641\u0627",
+    "start_lng": 35.527898,
+    "start_lat": 33.866111,
+    "end_lng": 35.527898,
+    "end_lat": 33.866111,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Galerie Semaan \n\u063a\u0627\u0644\u064a\u0631\u064a \u0633\u0645\u0639\u0627\u0646",
+    "start_lng": 35.527153,
+    "start_lat": 33.854472,
+    "end_lng": 35.527153,
+    "end_lat": 33.854472,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Hadath - Al Tawfir Market \n\u0637\u0631\u064a\u0642 \u0627\u0644\u062d\u062f\u062b - \u0627\u0644\u062a\u0648\u0641\u064a\u0631 \u0645\u0627\u0631\u0643\u062a",
+    "start_lng": 35.534178,
+    "start_lat": 33.854759,
+    "end_lng": 35.534178,
+    "end_lat": 33.854759,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Hadath - Sacre Coeur Hospital \n \u0637\u0631\u064a\u0642 \u0627\u0644\u062d\u062f\u062b - \u0645\u0633\u062a\u0634\u0641\u0649 \u0642\u0644\u0628 \u064a\u0633\u0648\u0639",
+    "start_lng": 35.534706,
+    "start_lat": 33.849281,
+    "end_lng": 35.534706,
+    "end_lat": 33.849281,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Hadath - Hamra Street Intersection \n\u062a\u0642\u0627\u0637\u0639 \u0627\u0644\u062d\u062f\u062b - \u0634\u0627\u0631\u0639 \u0627\u0644\u062d\u0645\u0631\u0627",
+    "start_lng": 35.534341,
+    "start_lat": 33.845058,
+    "end_lng": 35.534341,
+    "end_lat": 33.845058,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Hadath Square \n\u0633\u0627\u062d\u0629 \u0627\u0644\u062d\u062f\u062b",
+    "start_lng": 35.532241,
+    "start_lat": 33.840575,
+    "end_lng": 35.532241,
+    "end_lat": 33.840575,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Baabda\u00a0 - Boutchay Intersection\u00a0 \n\u062a\u0642\u0627\u0637\u0639 \u0628\u0639\u0628\u062f\u0627 \u0628\u0637\u0634\u0627\u064a",
+    "start_lng": 35.541846,
+    "start_lat": 33.830394,
+    "end_lng": 35.541846,
+    "end_lat": 33.830394,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Baabda Square \n\u0633\u0627\u062d\u0629 \u0628\u0639\u0628\u062f\u0627",
+    "start_lng": 35.54374,
+    "start_lat": 33.834009,
+    "end_lng": 35.54374,
+    "end_lat": 33.834009,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Saraya Baabda \n\u0633\u0631\u0627\u064a\u0627 \u0628\u0639\u0628\u062f\u0627",
+    "start_lng": 35.54138,
+    "start_lat": 33.834616,
+    "end_lng": 35.54138,
+    "end_lat": 33.834616,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Baabda Square \n\u0633\u0627\u062d\u0629 \u0628\u0639\u0628\u062f\u0627",
+    "start_lng": 35.543558,
+    "start_lat": 33.83406,
+    "end_lng": 35.543558,
+    "end_lat": 33.83406,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Antonine University \n\u0627\u0644\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0623\u0646\u0637\u0648\u0646\u064a\u0629",
+    "start_lng": 35.538028,
+    "start_lat": 33.837451,
+    "end_lng": 35.538028,
+    "end_lat": 33.837451,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Hadath Square \n\u0633\u0627\u062d\u0629 \u0627\u0644\u062d\u062f\u062b",
+    "start_lng": 35.532351,
+    "start_lat": 33.840528,
+    "end_lng": 35.532351,
+    "end_lat": 33.840528,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Hadath - Hamra Street \n\u062a\u0642\u0627\u0637\u0639 \u0627\u0644\u062d\u062f\u062b - \u0634\u0627\u0631\u0639 \u0627\u0644\u062d\u0645\u0631\u0627",
+    "start_lng": 35.534406,
+    "start_lat": 33.845047,
+    "end_lng": 35.534406,
+    "end_lat": 33.845047,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Hadath - Sacre Coeur Hospital \n\u0637\u0631\u064a\u0642 \u0627\u0644\u062d\u062f\u062b - \u0645\u0633\u062a\u0634\u0641\u0649 \u0642\u0644\u0628 \u064a\u0633\u0648\u0639",
+    "start_lng": 35.534846,
+    "start_lat": 33.849281,
+    "end_lng": 35.534846,
+    "end_lat": 33.849281,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Hadath - Al Tawfir Market \n\u0637\u0631\u064a\u0642 \u0627\u0644\u062d\u062f\u062b - \u0627\u0644\u062a\u0648\u0641\u064a\u0631 \u0645\u0627\u0631\u0643\u062a",
+    "start_lng": 35.534338,
+    "start_lat": 33.854763,
+    "end_lng": 35.534338,
+    "end_lat": 33.854763,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Galerie Semaan \n\u063a\u0627\u0644\u064a\u0631\u064a \u0633\u0645\u0639\u0627\u0646",
+    "start_lng": 35.527475,
+    "start_lat": 33.854356,
+    "end_lng": 35.527475,
+    "end_lat": 33.854356,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Chevrolet - Alfa Intersection \n\u062a\u0642\u0627\u0637\u0639 \u0627\u0644\u0634\u064a\u0641\u0631\u0648\u0644\u064a\u0647 - \u0623\u0644\u0641\u0627",
+    "start_lng": 35.527946,
+    "start_lat": 33.866018,
+    "end_lng": 35.527946,
+    "end_lat": 33.866018,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Sin El Fil - Habtour Intersection \n\u062a\u0642\u0627\u0637\u0639 \u0633\u0646 \u0627\u0644\u0641\u064a\u0644 - \u0627\u0644\u062d\u0628\u062a\u0648\u0631",
+    "start_lng": 35.53664,
+    "start_lat": 33.869938,
+    "end_lng": 35.53664,
+    "end_lat": 33.869938,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Dekwaneh - Mirna Chalouhi Intersection \n\u062a\u0642\u0627\u0637\u0639 \u0627\u0644\u062f\u0643\u0648\u0627\u0646\u0629 - \u0645\u064a\u0631\u0646\u0627 \u0627\u0644\u0634\u0627\u0644\u0648\u062d\u064a \u200e",
+    "start_lng": 35.543358,
+    "start_lat": 33.879345,
+    "end_lng": 35.543358,
+    "end_lat": 33.879345,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "El Sekkeh\n\u0645\u0642\u0637\u0639 \u0627\u0644\u0633\u0643\u0629",
+    "start_lng": 35.5362185,
+    "start_lat": 33.8895957,
+    "end_lng": 35.5362185,
+    "end_lat": 33.8895957,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Al Nahr Entrance \n\u0645\u062f\u062e\u0644 \u0627\u0644\u0646\u0647\u0631",
+    "start_lng": 35.537679,
+    "start_lat": 33.895186,
+    "end_lng": 35.537679,
+    "end_lat": 33.895186,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Dora Roundabount \n\u0645\u0633\u062a\u062f\u064a\u0631\u0629 \u0627\u0644\u062f\u0648\u0631\u0629",
+    "start_lng": 35.5504912,
+    "start_lat": 33.8934017,
+    "end_lng": 35.5504912,
+    "end_lat": 33.8934017,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "City Mall - Amusement Park \n\u0633\u064a\u062a\u064a \u0645\u0648\u0644 - \u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0644\u0627\u0647\u064a",
+    "start_lng": 35.5632601,
+    "start_lat": 33.896239,
+    "end_lng": 35.5632601,
+    "end_lat": 33.896239,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Dora Roundabout \n \u0645\u0633\u062a\u062f\u064a\u0631\u0629 \u0627\u0644\u062f\u0648\u0631\u0629",
+    "start_lng": 35.551044,
+    "start_lat": 33.893862,
+    "end_lng": 35.551044,
+    "end_lat": 33.893862,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: <br>Lattitude: <br>Longitude:",
+    "start_lng": 35.82574,
+    "start_lat": 34.4482,
+    "end_lng": 35.51507,
+    "end_lat": 33.87885,
+    "point_count": 1514
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: <br>Lattitude: <br>Longitude:",
+    "start_lng": 35.51507,
+    "start_lat": 33.87866,
+    "end_lng": 35.82583,
+    "end_lat": 34.4483,
+    "point_count": 1681
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: National Museum of Beirut <br>\u0627\u0644\u0645\u062a\u062d\u0641 \u0627\u0644\u0648\u0637\u0646\u064a \u0641\u064a \u0628\u064a\u0631\u0648\u062a<br>Lattitude: 33.878643<br>Longitude: 35.515278",
+    "start_lng": 35.515278,
+    "start_lat": 33.878643,
+    "end_lng": 35.515278,
+    "end_lat": 33.878643,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Adliyeh Roundabout<br>\u0645\u0633\u062a\u062f\u064a\u0631\u0629 \u0627\u0644\u0639\u062f\u0644\u064a\u0629<br>Lattitude: 33.878938<br>Longitude: 35.520393",
+    "start_lng": 35.520393,
+    "start_lat": 33.878938,
+    "end_lng": 35.520393,
+    "end_lat": 33.878938,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Dora Roundabout<br>\u0645\u0633\u062a\u062f\u064a\u0631\u0629 \u0627\u0644\u062f\u0648\u0631\u0629<br>Lattitude: 33.893441<br>Longitude: 35.550446",
+    "start_lng": 35.550446,
+    "start_lat": 33.893441,
+    "end_lng": 35.550446,
+    "end_lat": 33.893441,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Nahr El Mot - City Mall Bridge<br>\u0646\u0647\u0631 \u0627\u0644\u0645\u0648\u062a - \u062c\u0633\u0631 \u0627\u0644\u0633\u064a\u062a\u064a \u0645\u0648\u0644<br>Lattitude: 33.898319<br>Longitude: 35.568009",
+    "start_lng": 35.568009,
+    "start_lat": 33.898319,
+    "end_lng": 35.568009,
+    "end_lat": 33.898319,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Jal El Dib bridge<br>\u062c\u0633\u0631 \u062c\u0644 \u0627\u0644\u062f\u064a\u0628<br>Lattitude: 33.910193<br>Longitude: 35.579694",
+    "start_lng": 35.579694,
+    "start_lat": 33.910193,
+    "end_lng": 35.579694,
+    "end_lat": 33.910193,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Antelias Bridge<br>\u062c\u0633\u0631 \u0627\u0646\u0637\u0644\u064a\u0627\u0633<br>Lattitude: 33.917799<br>Longitude: 35.58428",
+    "start_lng": 35.58428,
+    "start_lat": 33.917799,
+    "end_lng": 35.58428,
+    "end_lat": 33.917799,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Naqqache Bridge<br>\u062c\u0633\u0631 \u0627\u0644\u0646\u0642\u0627\u0634<br>Lattitude: 33.923236<br>Longitude: 35.586364",
+    "start_lng": 35.586364,
+    "start_lat": 33.923236,
+    "end_lng": 35.586364,
+    "end_lat": 33.923236,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Le Royal Bridge<br>\u062c\u0633\u0631 \u0627\u0648\u062a\u064a\u0644 \u0627\u0644\u0631\u0648\u064a\u0627\u0644<br>Lattitude: 33.949437<br>Longitude: 35.592931",
+    "start_lng": 35.592931,
+    "start_lat": 33.949437,
+    "end_lng": 35.592931,
+    "end_lat": 33.949437,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Zouq Mosbeh Bridge<br>\u062c\u0633\u0631 \u0632\u0648\u0642 \u0645\u0635\u0628\u062d<br>Lattitude: 33.962081<br>Longitude: 35.604798",
+    "start_lng": 35.604798,
+    "start_lat": 33.962081,
+    "end_lng": 35.604798,
+    "end_lat": 33.962081,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Zouq Mkayel Pedestrian Bridge<br>\u062c\u0633\u0631 \u0645\u0634\u0627\u0629 \u0632\u0648\u0642 \u0645\u0643\u0627\u064a\u0644<br>Lattitude: 33.974321<br>Longitude: 35.612528",
+    "start_lng": 35.612528,
+    "start_lat": 33.974321,
+    "end_lng": 35.612528,
+    "end_lat": 33.974321,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Sarba Intersection<br>\u062a\u0642\u0627\u0637\u0639 \u0635\u0631\u0628\u0627<br>Lattitude: 33.977462<br>Longitude: 35.617686",
+    "start_lng": 35.617686,
+    "start_lat": 33.977462,
+    "end_lng": 35.617686,
+    "end_lat": 33.977462,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Soldini Bridge<br>\u062c\u0633\u0631 \u0627\u0644\u0633\u0648\u0644\u062f\u064a\u0646\u064a<br>Lattitude: 33.977657<br>Longitude: 35.628124",
+    "start_lng": 35.628124,
+    "start_lat": 33.977657,
+    "end_lng": 35.628124,
+    "end_lat": 33.977657,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Ap\u00f4tres Bridge<br>\u062c\u0633\u0631 \u0627\u0644\u0627\u0628\u0648\u062a\u0631<br>Lattitude: 33.981472<br>Longitude: 35.635388",
+    "start_lng": 35.635388,
+    "start_lat": 33.981472,
+    "end_lng": 35.635388,
+    "end_lat": 33.981472,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Fouad Chehab Stadium Bridge<br>\u062c\u0633\u0631 \u0645\u0644\u0639\u0628 \u0641\u0624\u0627\u062f \u0634\u0647\u0627\u0628<br>Lattitude: 33.986603<br>Longitude: 35.640681",
+    "start_lng": 35.640681,
+    "start_lat": 33.986603,
+    "end_lng": 35.640681,
+    "end_lat": 33.986603,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Ghazir Bridge<br>\u062c\u0633\u0631 \u063a\u0632\u064a\u0631<br>Lattitude: 34.013322<br>Longitude: 35.648176",
+    "start_lng": 35.648176,
+    "start_lat": 34.013322,
+    "end_lng": 35.648176,
+    "end_lat": 34.013322,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Tabarja Bridge<br>\u062c\u0633\u0631 \u0637\u0628\u0631\u062c\u0627<br>Lattitude: 34.029658<br>Longitude: 35.631721",
+    "start_lng": 35.631721,
+    "start_lat": 34.029658,
+    "end_lng": 35.631721,
+    "end_lat": 34.029658,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Safra Bridge<br>\u062c\u0633\u0631 \u0627\u0644\u0635\u0641\u0631\u0627<br>Lattitude: 34.037282<br>Longitude: 35.62876",
+    "start_lng": 35.62876,
+    "start_lat": 34.037282,
+    "end_lng": 35.62876,
+    "end_lat": 34.037282,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Bouar Bridge<br>\u062c\u0633\u0631 \u0627\u0644\u0628\u0648\u0627\u0631<br>Lattitude: 34.044624<br>Longitude: 35.633893",
+    "start_lng": 35.633893,
+    "start_lat": 34.044624,
+    "end_lng": 35.633893,
+    "end_lat": 34.044624,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Aqeibe Bridge<br>\u062c\u0633\u0631 \u0627\u0644\u0639\u0642\u064a\u0628\u0629<br>Lattitude: 34.055835<br>Longitude: 35.642637",
+    "start_lng": 35.642637,
+    "start_lat": 34.055835,
+    "end_lng": 35.642637,
+    "end_lat": 34.055835,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Nahr Ibrahim Bridge<br>\u062c\u0633\u0631 \u0646\u0647\u0631 \u0627\u0628\u0631\u0627\u0647\u064a\u0645<br>Lattitude: 34.06067<br>Longitude: 35.645715",
+    "start_lng": 35.645715,
+    "start_lat": 34.06067,
+    "end_lng": 35.645715,
+    "end_lat": 34.06067,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Halat Bridge<br>\u062c\u0633\u0631 \u062d\u0627\u0644\u0627\u062a<br>Lattitude: 34.086971<br>Longitude: 35.652088",
+    "start_lng": 35.652088,
+    "start_lat": 34.086971,
+    "end_lng": 35.652088,
+    "end_lat": 34.086971,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Fidar Bridge<br>\u062c\u0633\u0631 \u0627\u0644\u0641\u064a\u062f\u0627\u0631<br>Lattitude: 34.101582<br>Longitude: 35.653613",
+    "start_lng": 35.653613,
+    "start_lat": 34.101582,
+    "end_lng": 35.653613,
+    "end_lat": 34.101582,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Jbeil - Spinneys Bridge<br>\u062c\u0628\u064a\u0644 - \u062c\u0633\u0631 \u0627\u0644\u0633\u0628\u064a\u0646\u0633<br>Lattitude: 34.110346<br>Longitude: 35.653248",
+    "start_lng": 35.653248,
+    "start_lat": 34.110346,
+    "end_lng": 35.653248,
+    "end_lat": 34.110346,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Amchit Bridge<br>\u062c\u0633\u0631 \u0639\u0645\u0634\u064a\u062a<br>Lattitude: 34.150711<br>Longitude: 35.633673",
+    "start_lng": 35.633673,
+    "start_lat": 34.150711,
+    "end_lng": 35.633673,
+    "end_lat": 34.150711,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Kfar Abida Bridge<br>\u062c\u0633\u0631 \u0643\u0641\u0631 \u0639\u0628\u064a\u062f\u0627<br>Lattitude: 34.226748<br>Longitude: 35.659047",
+    "start_lng": 35.659047,
+    "start_lat": 34.226748,
+    "end_lng": 35.659047,
+    "end_lat": 34.226748,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Batroun Entrance<br>\u0645\u062f\u062e\u0644 \u0627\u0644\u0628\u062a\u0631\u0648\u0646<br>Lattitude: 34.248923<br>Longitude: 35.666207",
+    "start_lng": 35.666207,
+    "start_lat": 34.248923,
+    "end_lng": 35.666207,
+    "end_lat": 34.248923,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Hospital Bridge<br>\u062c\u0633\u0631 \u0627\u0644\u0645\u0633\u062a\u0634\u0641\u0649<br>Lattitude: 34.250574<br>Longitude: 35.667157",
+    "start_lng": 35.667157,
+    "start_lat": 34.250574,
+    "end_lng": 35.667157,
+    "end_lat": 34.250574,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Hamat Bridge<br>\u062c\u0633\u0631 \u062d\u0627\u0645\u0627\u062a<br>Lattitude: 34.289332<br>Longitude: 35.704919",
+    "start_lng": 35.704919,
+    "start_lat": 34.289332,
+    "end_lng": 35.704919,
+    "end_lat": 34.289332,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: El Heri Entrance<br>\u0645\u062f\u062e\u0644 \u0627\u0644\u0647\u0631\u064a<br>Lattitude: 34.305927<br>Longitude: 35.717883",
+    "start_lng": 35.717883,
+    "start_lat": 34.305927,
+    "end_lng": 35.717883,
+    "end_lat": 34.305927,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Finianos Station Bridge<br>\u062c\u0633\u0631 \u0645\u062d\u0637\u0629 \u0641\u0646\u064a\u0627\u0646\u0648\u0633<br>Lattitude: 34.322377<br>Longitude: 35.733987",
+    "start_lng": 35.733987,
+    "start_lat": 34.322377,
+    "end_lng": 35.733987,
+    "end_lat": 34.322377,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: USEK Bridge - Chekka<br>\u062c\u0633\u0631 \u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0631\u0648\u062d \u0627\u0644\u0642\u062f\u0633 - \u0634\u0643\u0627<br>Lattitude: 34.324121<br>Longitude: 35.734463",
+    "start_lng": 35.734463,
+    "start_lat": 34.324121,
+    "end_lng": 35.734463,
+    "end_lat": 34.324121,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: El Sabaa Bridge<br>\u062c\u0633\u0631 \u0627\u0644\u0633\u0628\u0639<br>Lattitude: 34.340904<br>Longitude: 35.741314",
+    "start_lng": 35.741314,
+    "start_lat": 34.340904,
+    "end_lng": 35.741314,
+    "end_lat": 34.340904,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Anfe Entrance<br>\u0645\u062f\u062e\u0644 \u0623\u0646\u0641\u0647<br>Lattitude: 34.346674<br>Longitude: 35.743475",
+    "start_lng": 35.743475,
+    "start_lat": 34.346674,
+    "end_lng": 35.743475,
+    "end_lat": 34.346674,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Qalamoun Pedestrian Bridge<br>\u062c\u0633\u0631 \u0645\u0634\u0627\u0629 \u0627\u0644\u0642\u0644\u0645\u0648\u0646<br>Lattitude: 34.383966<br>Longitude: 35.78542",
+    "start_lng": 35.78542,
+    "start_lat": 34.383966,
+    "end_lng": 35.78542,
+    "end_lat": 34.383966,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Ras Maska Entrance<br>\u0645\u0641\u0631\u0642 \u0631\u0627\u0633 \u0645\u0633\u0642\u0627<br>Lattitude: 34.406528<br>Longitude: 35.817851",
+    "start_lng": 35.817851,
+    "start_lat": 34.406528,
+    "end_lng": 35.817851,
+    "end_lat": 34.406528,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Al Salam Roundabout<br>\u0645\u0633\u062a\u062f\u064a\u0631\u0629 \u0627\u0644\u0633\u0644\u0627\u0645<br>Lattitude: 34.420535<br>Longitude: 35.826078",
+    "start_lng": 35.826078,
+    "start_lat": 34.420535,
+    "end_lng": 35.826078,
+    "end_lat": 34.420535,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Electricity Transfer station - Bohsas<br>\u0645\u062d\u0637\u0629 \u062a\u062d\u0648\u064a\u0644 \u0627\u0644\u0643\u0647\u0631\u0628\u0627\u0621 - \u0627\u0644\u0628\u062d\u0635\u0627\u0635<br>Lattitude: 34.420468<br>Longitude: 35.830451",
+    "start_lng": 35.830451,
+    "start_lat": 34.420468,
+    "end_lng": 35.830451,
+    "end_lat": 34.420468,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Al Nour Square<br>\u0633\u0627\u062d\u0629 \u0627\u0644\u0646\u0648\u0631<br>Lattitude: 34.434356<br>Longitude: 35.836235",
+    "start_lng": 35.836235,
+    "start_lat": 34.434356,
+    "end_lng": 35.836235,
+    "end_lat": 34.434356,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Ahdab Station - Al Tal<br>\u0643\u0631\u0627\u062c \u0627\u0644\u0623\u062d\u062f\u0628 - \u0627\u0644\u062a\u0644<br>Lattitude: 34.43693<br>Longitude: 35.837093",
+    "start_lng": 35.837093,
+    "start_lat": 34.43693,
+    "end_lng": 35.837093,
+    "end_lat": 34.43693,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Azmi Beik Intersection<br>\u062a\u0642\u0627\u0637\u0639 \u0627\u0634\u0627\u0631\u0629 \u0639\u0632\u0645\u064a \u0628\u064a\u0643<br>Lattitude: 34.4387<br>Longitude: 35.83772",
+    "start_lng": 35.83772,
+    "start_lat": 34.4387,
+    "end_lng": 35.83772,
+    "end_lat": 34.4387,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Al Miten Intersection<br>\u062a\u0642\u0627\u0637\u0639 \u0627\u0634\u0627\u0631\u0629 \u0627\u0644\u0645\u0626\u062a\u064a\u0646<br>Lattitude: 34.440961<br>Longitude: 35.839393",
+    "start_lng": 35.839393,
+    "start_lat": 34.440961,
+    "end_lng": 35.839393,
+    "end_lat": 34.440961,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Abou Ali Roundabout<br>\u0645\u0633\u062a\u062f\u064a\u0631\u0629 \u0627\u0628\u0648 \u0639\u0644\u064a<br>Lattitude: 34.445383<br>Longitude: 35.847032",
+    "start_lng": 35.847032,
+    "start_lat": 34.445383,
+    "end_lng": 35.847032,
+    "end_lat": 34.445383,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Tripoli Port Entrance<br>\u0645\u062f\u062e\u0644 \u0645\u0631\u0641\u0623 \u0637\u0631\u0627\u0628\u0644\u0633<br>Lattitude: 34.450308<br>Longitude: 35.832438",
+    "start_lng": 35.832438,
+    "start_lat": 34.450308,
+    "end_lng": 35.832438,
+    "end_lat": 34.450308,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Tripoli Train station<br>\u0645\u062d\u0637\u0629 \u0642\u0637\u0627\u0631 \u0637\u0631\u0627\u0628\u0644\u0633<br>Lattitude: 34.448349<br>Longitude: 35.825603",
+    "start_lng": 35.825603,
+    "start_lat": 34.448349,
+    "end_lng": 35.825603,
+    "end_lat": 34.448349,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Tripoli Port Entrance<br>\u0645\u062f\u062e\u0644 \u0645\u0631\u0641\u0623 \u0637\u0631\u0627\u0628\u0644\u0633<br>Lattitude: 34.450221<br>Longitude: 35.832459",
+    "start_lng": 35.832459,
+    "start_lat": 34.450221,
+    "end_lng": 35.832459,
+    "end_lat": 34.450221,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Abou Ali Roundabout<br>\u0645\u0633\u062a\u062f\u064a\u0631\u0629 \u0627\u0628\u0648 \u0639\u0644\u064a<br>Lattitude: 34.446033<br>Longitude: 35.846586",
+    "start_lng": 35.846586,
+    "start_lat": 34.446033,
+    "end_lng": 35.846586,
+    "end_lat": 34.446033,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Al Miten Intersection<br>\u062a\u0642\u0627\u0637\u0639 \u0627\u0634\u0627\u0631\u0629 \u0627\u0644\u0645\u0626\u062a\u064a\u0646<br>Lattitude: 34.441182<br>Longitude: 35.839436",
+    "start_lng": 35.839436,
+    "start_lat": 34.441182,
+    "end_lng": 35.839436,
+    "end_lat": 34.441182,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Azmi Beik Intersection<br>\u062a\u0642\u0627\u0637\u0639 \u0627\u0634\u0627\u0631\u0629 \u0639\u0632\u0645\u064a \u0628\u064a\u0643<br>Lattitude: 34.438907<br>Longitude: 35.837647",
+    "start_lng": 35.837647,
+    "start_lat": 34.438907,
+    "end_lng": 35.837647,
+    "end_lat": 34.438907,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Ahdab Station - Al Tal<br>\u0643\u0631\u0627\u062c \u0627\u0644\u0623\u062d\u062f\u0628 - \u0627\u0644\u062a\u0644<br>Lattitude: 34.437006<br>Longitude: 35.836922",
+    "start_lng": 35.836922,
+    "start_lat": 34.437006,
+    "end_lng": 35.836922,
+    "end_lat": 34.437006,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Al Nour Square<br>\u0633\u0627\u062d\u0629 \u0627\u0644\u0646\u0648\u0631<br>Lattitude: 34.434631<br>Longitude: 35.835828",
+    "start_lng": 35.835828,
+    "start_lat": 34.434631,
+    "end_lng": 35.835828,
+    "end_lat": 34.434631,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Bank Audi - Bohsas Boulevard<br>\u0628\u0646\u0643 \u0639\u0648\u062f\u0629 - \u0628\u0648\u0644\u0641\u0627\u0631\u062f \u0627\u0644\u0628\u062d\u0635\u0627\u0635<br>Lattitude: 34.427101<br>Longitude: 35.833179",
+    "start_lng": 35.833179,
+    "start_lat": 34.427101,
+    "end_lng": 35.833179,
+    "end_lat": 34.427101,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Al Salam Roundabout<br>\u0645\u0633\u062a\u062f\u064a\u0631\u0629 \u0627\u0644\u0633\u0644\u0627\u0645<br>Lattitude: 34.420952<br>Longitude: 35.825901",
+    "start_lng": 35.825901,
+    "start_lat": 34.420952,
+    "end_lng": 35.825901,
+    "end_lat": 34.420952,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Palma Bridge<br>\u062c\u0633\u0631 \u0627\u0644\u0628\u0627\u0644\u0645\u0627<br>Lattitude: 34.408103<br>Longitude: 35.819753",
+    "start_lng": 35.819753,
+    "start_lat": 34.408103,
+    "end_lng": 35.819753,
+    "end_lat": 34.408103,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Qalamoun Pedestrian Bridge<br>\u062c\u0633\u0631 \u0645\u0634\u0627\u0629 \u0627\u0644\u0642\u0644\u0645\u0648\u0646<br>Lattitude: 34.38427<br>Longitude: 35.785715",
+    "start_lng": 35.785715,
+    "start_lat": 34.38427,
+    "end_lng": 35.785715,
+    "end_lat": 34.38427,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Anfe Bridge<br>\u062c\u0633\u0631 \u0623\u0646\u0641\u0647<br>Lattitude: 34.351319<br>Longitude: 35.743144",
+    "start_lng": 35.743144,
+    "start_lat": 34.351319,
+    "end_lng": 35.743144,
+    "end_lat": 34.351319,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: El Sabaa Bridge<br>\u062c\u0633\u0631 \u0627\u0644\u0633\u0628\u0639<br>Lattitude: 34.340975<br>Longitude: 35.741145",
+    "start_lng": 35.741145,
+    "start_lat": 34.340975,
+    "end_lng": 35.741145,
+    "end_lat": 34.340975,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: USEK Bridge<br>\u062c\u0633\u0631 \u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0631\u0648\u062d \u0627\u0644\u0642\u062f\u0633<br>Lattitude: 34.323944<br>Longitude: 35.734205",
+    "start_lng": 35.734205,
+    "start_lat": 34.323944,
+    "end_lng": 35.734205,
+    "end_lat": 34.323944,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Finianos Station Bridge<br>\u062c\u0633\u0631 \u0645\u062d\u0637\u0629 \u0641\u0646\u064a\u0627\u0646\u0648\u0633<br>Lattitude: 34.322739<br>Longitude: 35.733905",
+    "start_lng": 35.733905,
+    "start_lat": 34.322739,
+    "end_lng": 35.733905,
+    "end_lat": 34.322739,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: El Heri Exit<br>\u0645\u062f\u062e\u0644 \u0627\u0644\u0647\u0631\u064a<br>Lattitude: 34.31114<br>Longitude: 35.72471",
+    "start_lng": 35.72471,
+    "start_lat": 34.31114,
+    "end_lng": 35.72471,
+    "end_lat": 34.31114,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Hamat Bridge<br>\u062c\u0633\u0631 \u062d\u0627\u0645\u0627\u062a<br>Lattitude: 34.289596<br>Longitude: 35.704753",
+    "start_lng": 35.704753,
+    "start_lat": 34.289596,
+    "end_lng": 35.704753,
+    "end_lat": 34.289596,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Hospital bridge<br>\u062c\u0633\u0631 \u0627\u0644\u0645\u0633\u062a\u0634\u0641\u0649<br>Lattitude: 34.250785<br>Longitude: 35.667077",
+    "start_lng": 35.667077,
+    "start_lat": 34.250785,
+    "end_lng": 35.667077,
+    "end_lat": 34.250785,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Batroun Exit<br>\u0645\u062f\u062e\u0644 \u0627\u0644\u0628\u062a\u0631\u0648\u0646<br>Lattitude: 34.249277<br>Longitude: 35.666237",
+    "start_lng": 35.666237,
+    "start_lat": 34.249277,
+    "end_lng": 35.666237,
+    "end_lat": 34.249277,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Kfar Abida Bridge<br>\u062c\u0633\u0631 \u0643\u0641\u0631 \u0639\u0628\u064a\u062f\u0627<br>Lattitude: 34.226928<br>Longitude: 35.658949",
+    "start_lng": 35.658949,
+    "start_lat": 34.226928,
+    "end_lng": 35.658949,
+    "end_lat": 34.226928,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Amchit Entrance<br>\u0645\u062f\u062e\u0644 \u0639\u0645\u0634\u064a\u062a<br>Lattitude: 34.151575<br>Longitude: 35.633631",
+    "start_lng": 35.633631,
+    "start_lat": 34.151575,
+    "end_lng": 35.633631,
+    "end_lat": 34.151575,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Jbeil Entrance<br>\u0645\u062f\u062e\u0644 \u062c\u0628\u064a\u0644<br>Lattitude: 34.126066<br>Longitude: 35.649956",
+    "start_lng": 35.649956,
+    "start_lat": 34.126066,
+    "end_lng": 35.649956,
+    "end_lat": 34.126066,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Fidar Bridge<br>\u062c\u0633\u0631 \u0627\u0644\u0641\u064a\u062f\u0627\u0631<br>Lattitude: 34.101689<br>Longitude: 35.653382",
+    "start_lng": 35.653382,
+    "start_lat": 34.101689,
+    "end_lng": 35.653382,
+    "end_lat": 34.101689,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Halat Bridge<br>\u062c\u0633\u0631 \u062d\u0627\u0644\u0627\u062a<br>Lattitude: 34.098402<br>Longitude: 35.653436",
+    "start_lng": 35.653436,
+    "start_lat": 34.098402,
+    "end_lng": 35.653436,
+    "end_lat": 34.098402,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Nahr Ibrahim Bridge<br>\u062c\u0633\u0631 \u0646\u0647\u0631 \u0627\u0628\u0631\u0627\u0647\u064a\u0645<br>Lattitude: 34.061648<br>Longitude: 35.645879",
+    "start_lng": 35.645879,
+    "start_lat": 34.061648,
+    "end_lng": 35.645879,
+    "end_lat": 34.061648,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Aqeibe Bridge<br>\u062c\u0633\u0631 \u0627\u0644\u0639\u0642\u064a\u0628\u0629<br>Lattitude: 34.052724<br>Longitude: 35.63862",
+    "start_lng": 35.63862,
+    "start_lat": 34.052724,
+    "end_lng": 35.63862,
+    "end_lat": 34.052724,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Bouar Bridge<br>\u062c\u0633\u0631 \u0627\u0644\u0628\u0648\u0627\u0631<br>Lattitude: 34.045056<br>Longitude: 35.634023",
+    "start_lng": 35.634023,
+    "start_lat": 34.045056,
+    "end_lng": 35.634023,
+    "end_lat": 34.045056,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Al Safra Bridge<br>\u062c\u0633\u0631 \u0627\u0644\u0635\u0641\u0631\u0627<br>Lattitude: 34.037491<br>Longitude: 35.628604",
+    "start_lng": 35.628604,
+    "start_lat": 34.037491,
+    "end_lng": 35.628604,
+    "end_lat": 34.037491,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Tabarja Bridge<br>\u062c\u0633\u0631 \u0637\u0628\u0631\u062c\u0627<br>Lattitude: 34.029818<br>Longitude: 35.631563",
+    "start_lng": 35.631563,
+    "start_lat": 34.029818,
+    "end_lng": 35.631563,
+    "end_lat": 34.029818,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Ghazir Bridge<br>\u062c\u0633\u0631 \u063a\u0632\u064a\u0631<br>Lattitude: 34.013491<br>Longitude: 35.647747",
+    "start_lng": 35.647747,
+    "start_lat": 34.013491,
+    "end_lng": 35.647747,
+    "end_lat": 34.013491,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Fouad Chehab Stadium Bridge<br>\u062c\u0633\u0631 \u0645\u0644\u0639\u0628 \u0641\u0624\u0627\u062f \u0634\u0647\u0627\u0628<br>Lattitude: 33.987278<br>Longitude: 35.640712",
+    "start_lng": 35.640712,
+    "start_lat": 33.987278,
+    "end_lng": 35.640712,
+    "end_lat": 33.987278,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Ap\u00f4tres Bridge<br>\u062c\u0633\u0631 \u0627\u0644\u0627\u0628\u0648\u062a\u0631<br>Lattitude: 33.981798<br>Longitude: 35.635503",
+    "start_lng": 35.635503,
+    "start_lat": 33.981798,
+    "end_lng": 35.635503,
+    "end_lat": 33.981798,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Soldini Bridge<br>\u062c\u0633\u0631 \u0627\u0644\u0633\u0648\u0644\u062f\u064a\u0646\u064a<br>Lattitude: 33.97781<br>Longitude: 35.628251",
+    "start_lng": 35.628251,
+    "start_lat": 33.97781,
+    "end_lng": 35.628251,
+    "end_lat": 33.97781,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Sarba Fishery<br>\u0645\u0633\u0645\u0643\u0629 \u0635\u0631\u0628\u0627<br>Lattitude: 33.979241<br>Longitude: 35.620627",
+    "start_lng": 35.620627,
+    "start_lat": 33.979241,
+    "end_lng": 35.620627,
+    "end_lat": 33.979241,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Zouq Mkayel Pedestrian Bridge<br>\u062c\u0633\u0631 \u0645\u0634\u0627\u0629 \u0632\u0648\u0642 \u0645\u0643\u0627\u064a\u0644<br>Lattitude: 33.974321<br>Longitude: 35.612528",
+    "start_lng": 35.612528,
+    "start_lat": 33.974321,
+    "end_lng": 35.612528,
+    "end_lat": 33.974321,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Zouq Mosbeh Bridge<br>\u062c\u0633\u0631 \u0632\u0648\u0642 \u0645\u0635\u0628\u062d - \u064a\u0633\u0648\u0639 \u0627\u0644\u0645\u0644\u0643<br>Lattitude: 33.962258<br>Longitude: 35.604567",
+    "start_lng": 35.604567,
+    "start_lat": 33.962258,
+    "end_lng": 35.604567,
+    "end_lat": 33.962258,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Le Royal Bridge<br>\u062c\u0633\u0631 \u0627\u0648\u062a\u064a\u0644 \u0627\u0644\u0631\u0648\u064a\u0627\u0644<br>Lattitude: 33.949766<br>Longitude: 35.592674",
+    "start_lng": 35.592674,
+    "start_lat": 33.949766,
+    "end_lng": 35.592674,
+    "end_lat": 33.949766,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Naqqache Bridge<br>\u062c\u0633\u0631 \u0627\u0644\u0646\u0642\u0627\u0634<br>Lattitude: 33.923654<br>Longitude: 35.586257",
+    "start_lng": 35.586257,
+    "start_lat": 33.923654,
+    "end_lng": 35.586257,
+    "end_lat": 33.923654,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Antelias Bridge<br>\u062c\u0633\u0631 \u0627\u0646\u0637\u0644\u064a\u0627\u0633<br>Lattitude: 33.918262<br>Longitude: 35.584205",
+    "start_lng": 35.584205,
+    "start_lat": 33.918262,
+    "end_lng": 35.584205,
+    "end_lat": 33.918262,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Jal El Dib bridge<br>\u062c\u0633\u0631 \u062c\u0644 \u0627\u0644\u062f\u064a\u0628<br>Lattitude: 33.910451<br>Longitude: 35.579689",
+    "start_lng": 35.579689,
+    "start_lat": 33.910451,
+    "end_lng": 35.579689,
+    "end_lat": 33.910451,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: City Mall - Amusement Park<br>\u0633\u064a\u062a\u064a \u0645\u0648\u0644 - \u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0644\u0627\u0647\u064a\u200e<br>Lattitude: 33.896278<br>Longitude: 35.563303",
+    "start_lng": 35.563303,
+    "start_lat": 33.896278,
+    "end_lng": 35.563303,
+    "end_lat": 33.896278,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Dora Roundabout <br>\u0645\u0633\u062a\u062f\u064a\u0631\u0629 \u0627\u0644\u062f\u0648\u0631\u0629<br>Lattitude: 33.893896<br>Longitude: 35.550285",
+    "start_lng": 35.550285,
+    "start_lat": 33.893896,
+    "end_lng": 35.550285,
+    "end_lat": 33.893896,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: Adliyeh Roundabout <br>\u0645\u0633\u062a\u062f\u064a\u0631\u0629 \u0627\u0644\u0639\u062f\u0644\u064a\u0629<br>Lattitude: 33.879447<br>Longitude: 35.52104",
+    "start_lng": 35.52104,
+    "start_lat": 33.879447,
+    "end_lng": 35.52104,
+    "end_lat": 33.879447,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Descritpion: National Museum of Beirut<br>\u0627\u0644\u0645\u062a\u062d\u0641 \u0627\u0644\u0648\u0637\u0646\u064a \u0641\u064a \u0628\u064a\u0631\u0648\u062a<br>Lattitude: 33.878633<br>Longitude: 35.514998",
+    "start_lng": 35.514998,
+    "start_lat": 33.878633,
+    "end_lng": 35.514998,
+    "end_lat": 33.878633,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "",
+    "start_lng": 35.52783,
+    "start_lat": 33.8974,
+    "end_lng": 35.480739,
+    "end_lat": 33.789918,
+    "point_count": 521
+  },
+  {
+    "name": "Unknown Route",
+    "description": "",
+    "start_lng": 35.480831,
+    "start_lat": 33.789805,
+    "end_lng": 35.52783,
+    "end_lat": 33.89738,
+    "point_count": 951
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Mar Mikhael Station\u00a0\n \u0645\u062d\u0637\u0629 \u0645\u0627\u0631 \u0645\u062e\u0627\u064a\u0644",
+    "start_lng": 35.527852,
+    "start_lat": 33.897481,
+    "end_lng": 35.527852,
+    "end_lat": 33.897481,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Al Nahr Crossroads \n\u062a\u0642\u0627\u0637\u0639 \u0627\u0634\u0627\u0631\u0629 \u0627\u0644\u0646\u0647\u0631",
+    "start_lng": 35.535578,
+    "start_lat": 33.895593,
+    "end_lng": 35.535578,
+    "end_lat": 33.895593,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Fiat Bridge \n\u062c\u0633\u0631 \u0627\u0644\u0641\u064a\u0627\u062a",
+    "start_lng": 35.530342,
+    "start_lat": 33.884684,
+    "end_lng": 35.530342,
+    "end_lat": 33.884684,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Adliyeh Roundabout\u00a0\n \u0645\u0633\u062a\u062f\u064a\u0631\u0629 \u0627\u0644\u0639\u062f\u0644\u064a\u0629",
+    "start_lng": 35.520729,
+    "start_lat": 33.879466,
+    "end_lng": 35.520729,
+    "end_lat": 33.879466,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Damascus Road\u00a0\n\u0637\u0631\u064a\u0642 \u062f\u0645\u0634\u0642",
+    "start_lng": 35.521495,
+    "start_lat": 33.873524,
+    "end_lng": 35.521495,
+    "end_lat": 33.873524,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Camil Chamoun\u00a0\n \u062c\u0627\u062f\u0629 \u0643\u0645\u064a\u0644 \u0634\u0645\u0639\u0648\u0646",
+    "start_lng": 35.527103,
+    "start_lat": 33.865051,
+    "end_lng": 35.527103,
+    "end_lat": 33.865051,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Hadath\u00a0\n \u062d\u062f\u062b",
+    "start_lng": 35.527769,
+    "start_lat": 33.849953,
+    "end_lng": 35.527769,
+    "end_lat": 33.849953,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Lebanese University - Hadath \n \u0627\u0644\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0644\u0628\u0646\u0627\u0646\u064a\u0629 - \u0627\u0644\u062d\u062f\u062b",
+    "start_lng": 35.526241,
+    "start_lat": 33.829126,
+    "end_lng": 35.526241,
+    "end_lat": 33.829126,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Saida Old Road \n\u0637\u0631\u064a\u0642 \u0635\u064a\u062f\u0627 \u0627\u0644\u0642\u062f\u064a\u0645\u0629",
+    "start_lng": 35.527555,
+    "start_lat": 33.823467,
+    "end_lng": 35.527555,
+    "end_lat": 33.823467,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Saida Old Road \n\u0637\u0631\u064a\u0642 \u0635\u064a\u062f\u0627 \u0627\u0644\u0642\u062f\u064a\u0645\u0629",
+    "start_lng": 35.5277,
+    "start_lat": 33.823551,
+    "end_lng": 35.5277,
+    "end_lat": 33.823551,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Lebanese University - Hadath \n\u0627\u0644\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0644\u0628\u0646\u0627\u0646\u064a\u0629 - \u0627\u0644\u062d\u062f\u062b",
+    "start_lng": 35.526402,
+    "start_lat": 33.829108,
+    "end_lng": 35.526402,
+    "end_lat": 33.829108,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Hadath \n\u062d\u062f\u062b",
+    "start_lng": 35.527863,
+    "start_lat": 33.849964,
+    "end_lng": 35.527863,
+    "end_lat": 33.849964,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Camil Chamoun \n\u062c\u0627\u062f\u0629 \u0643\u0645\u064a\u0644 \u0634\u0645\u0639\u0648\u0646",
+    "start_lng": 35.52728,
+    "start_lat": 33.864997,
+    "end_lng": 35.52728,
+    "end_lat": 33.864997,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Damascus Road \n\u0637\u0631\u064a\u0642 \u062f\u0645\u0634\u0642",
+    "start_lng": 35.521495,
+    "start_lat": 33.873524,
+    "end_lng": 35.521495,
+    "end_lat": 33.873524,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Adliyeh Roundabout \n\u0645\u0633\u062a\u062f\u064a\u0631\u0629 \u0627\u0644\u0639\u062f\u0644\u064a\u0629",
+    "start_lng": 35.520394,
+    "start_lat": 33.878941,
+    "end_lng": 35.520394,
+    "end_lat": 33.878941,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Al Nahr Crossroads \n\u062a\u0642\u0627\u0637\u0639 \u0627\u0634\u0627\u0631\u0629 \u0627\u0644\u0646\u0647\u0631",
+    "start_lng": 35.535723,
+    "start_lat": 33.895528,
+    "end_lng": 35.535723,
+    "end_lat": 33.895528,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Mar Mikhael Station \n\u0645\u062d\u0637\u0629 \u0645\u0627\u0631 \u0645\u062e\u0627\u064a\u0644",
+    "start_lng": 35.527856,
+    "start_lat": 33.897479,
+    "end_lng": 35.527856,
+    "end_lat": 33.897479,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Khalde Bridge\n\u062c\u0633\u0631 \u062e\u0644\u062f\u0629",
+    "start_lng": 35.480694,
+    "start_lat": 33.789811,
+    "end_lng": 35.480694,
+    "end_lat": 33.789811,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "",
+    "start_lng": 35.47968,
+    "start_lat": 33.78838,
+    "end_lng": 35.21473,
+    "end_lat": 33.2699,
+    "point_count": 1061
+  },
+  {
+    "name": "Unknown Route",
+    "description": "",
+    "start_lng": 35.21478,
+    "start_lat": 33.26992,
+    "end_lng": 35.48064,
+    "end_lat": 33.78838,
+    "point_count": 1156
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Khalde Bridge\n\u062c\u0633\u0631 \u062e\u0644\u062f\u0629",
+    "start_lng": 35.479748,
+    "start_lat": 33.788445,
+    "end_lng": 35.479748,
+    "end_lat": 33.788445,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Islamic University of Lebanon\n\u0627\u0644\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064a\u0629 \u0641\u064a \u0644\u0628\u0646\u0627\u0646",
+    "start_lng": 35.474887,
+    "start_lat": 33.781024,
+    "end_lng": 35.474887,
+    "end_lat": 33.781024,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Chamsine Bakery\n\u0623\u0641\u0631\u0627\u0646 \u0634\u0645\u0633\u064a\u0646",
+    "start_lng": 35.471436,
+    "start_lat": 33.775697,
+    "end_lng": 35.471436,
+    "end_lat": 33.775697,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Douha Intersection\n\u062a\u0642\u0627\u0637\u0639 \u0627\u0644\u062f\u0648\u062d\u0629",
+    "start_lng": 35.462188,
+    "start_lat": 33.764197,
+    "end_lng": 35.462188,
+    "end_lat": 33.764197,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Naameh Intersection\n\u062a\u0642\u0627\u0637\u0639 \u0627\u0644\u0646\u0627\u0639\u0645\u0629",
+    "start_lng": 35.453832,
+    "start_lat": 33.752559,
+    "end_lng": 35.453832,
+    "end_lat": 33.752559,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Naameh Pedestrian Bridge\n\u062d\u0627\u0631\u0629 \u0627\u0644\u0646\u0627\u0639\u0645\u0629 - \u062c\u0633\u0631 \u0627\u0644\u0645\u0634\u0627\u0629",
+    "start_lng": 35.453742,
+    "start_lat": 33.737303,
+    "end_lng": 35.453742,
+    "end_lat": 33.737303,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Modern University for Business and Science - Damour\n\u0627\u0644\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u062d\u062f\u064a\u062b\u0629 \u0644\u0644\u0625\u062f\u0627\u0631\u0629 \u0648\u0627\u0644\u0639\u0644\u0648\u0645 - \u062f\u0627\u0645\u0648\u0631",
+    "start_lng": 35.45187,
+    "start_lat": 33.71885,
+    "end_lng": 35.45187,
+    "end_lat": 33.71885,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Damour - Saadiyat Intersection\n\u062a\u0642\u0627\u0637\u0639 \u0627\u0644\u062f\u0627\u0645\u0648\u0631 - \u0633\u0639\u062f\u064a\u0627\u062a",
+    "start_lng": 35.425429,
+    "start_lat": 33.693194,
+    "end_lng": 35.425429,
+    "end_lat": 33.693194,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Jiyeh Bridge\n\u062c\u0633\u0631 \u0627\u0644\u062c\u064a\u0629",
+    "start_lng": 35.424463,
+    "start_lat": 33.683106,
+    "end_lng": 35.424463,
+    "end_lat": 33.683106,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Jiyeh Entrance\n\u0645\u062f\u062e\u0644 \u0627\u0644\u062c\u064a\u0629",
+    "start_lng": 35.423177,
+    "start_lat": 33.680682,
+    "end_lng": 35.423177,
+    "end_lat": 33.680682,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Jiyeh - Barja Intersection\n\u062a\u0642\u0627\u0637\u0639 \u062c\u064a\u0629 -\u00a0 \u0628\u0631\u062c\u0627",
+    "start_lng": 35.425028,
+    "start_lat": 33.659074,
+    "end_lng": 35.425028,
+    "end_lat": 33.659074,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Jiyeh Electricity\n\u0643\u0647\u0631\u0628\u0627\u0621 \u0627\u0644\u062c\u064a\u0629",
+    "start_lng": 35.41067,
+    "start_lat": 33.649469,
+    "end_lng": 35.41067,
+    "end_lat": 33.649469,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Jadra Bridge\n\u062a\u0642\u0627\u0637\u0639 \u062c\u062f\u0631\u0627",
+    "start_lng": 35.402299,
+    "start_lat": 33.633454,
+    "end_lng": 35.402299,
+    "end_lat": 33.633454,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Sidon Entrance\n\u0645\u062f\u062e\u0644 \u0635\u064a\u062f\u0627",
+    "start_lng": 35.376441,
+    "start_lat": 33.567175,
+    "end_lng": 35.376441,
+    "end_lat": 33.567175,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Nejmeh Square\n\u0633\u0627\u062d\u0629 \u0627\u0644\u0646\u062c\u0645\u0629",
+    "start_lng": 35.374912,
+    "start_lat": 33.565001,
+    "end_lng": 35.374912,
+    "end_lat": 33.565001,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Spinneys\n\u0633\u0628\u064a\u0646\u0633",
+    "start_lng": 35.379059,
+    "start_lat": 33.559449,
+    "end_lng": 35.379059,
+    "end_lat": 33.559449,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Saraya Roundabout\n\u0645\u0633\u062a\u062f\u064a\u0631\u0629 \u0627\u0644\u0633\u0631\u0627\u064a\u0627",
+    "start_lng": 35.376906,
+    "start_lat": 33.550355,
+    "end_lng": 35.376906,
+    "end_lat": 33.550355,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Raee Hospital - Ghaziyeh\n\u062a\u0642\u0627\u0637\u0639 \u0645\u0633\u062a\u0634\u0641\u0649 \u0627\u0644\u0631\u0627\u0639\u064a",
+    "start_lng": 35.365283,
+    "start_lat": 33.526642,
+    "end_lng": 35.365283,
+    "end_lat": 33.526642,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Ghaziyeh - Deir El Zahrani Intersection\n\u062a\u0642\u0627\u0637\u0639 \u0627\u0644\u063a\u0627\u0632\u064a\u0629 - \u062f\u064a\u0631 \u0627\u0644\u0632\u0647\u0631\u0627\u0646\u064a",
+    "start_lng": 35.342171,
+    "start_lat": 33.491211,
+    "end_lng": 35.342171,
+    "end_lat": 33.491211,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Baisariyeh Intersection\n\u062a\u0642\u0627\u0637\u0639 \u0627\u0644\u0628\u064a\u0635\u0631\u064a\u0629",
+    "start_lng": 35.318834,
+    "start_lat": 33.464284,
+    "end_lng": 35.318834,
+    "end_lat": 33.464284,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Sarafand\n\u0635\u0631\u0641\u0646\u062f",
+    "start_lng": 35.308266,
+    "start_lat": 33.439369,
+    "end_lng": 35.308266,
+    "end_lat": 33.439369,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Daoudieh Intersection\n\u062a\u0642\u0627\u0637\u0639 \u0627\u0644\u062f\u0627\u0648\u062f\u064a\u0629",
+    "start_lng": 35.306134,
+    "start_lat": 33.428341,
+    "end_lng": 35.306134,
+    "end_lat": 33.428341,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Ansariyeh Intersection\n\u062a\u0642\u0627\u0637\u0639 \u0627\u0644\u0623\u0646\u0635\u0627\u0631\u064a\u0629",
+    "start_lng": 35.291804,
+    "start_lat": 33.416559,
+    "end_lng": 35.291804,
+    "end_lat": 33.416559,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Aadloun Intersection\n\u062a\u0642\u0627\u0637\u0639 \u0639\u062f\u0644\u0648\u0646",
+    "start_lng": 35.279292,
+    "start_lat": 33.400172,
+    "end_lng": 35.279292,
+    "end_lat": 33.400172,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Kfar Badda - Aadloun Intersection\n\u062a\u0642\u0627\u0637\u0639 \u0643\u0641\u0631 \u0628\u062f\u0627 - \u0639\u062f\u0644\u0648\u0646",
+    "start_lng": 35.265844,
+    "start_lat": 33.36963,
+    "end_lng": 35.265844,
+    "end_lat": 33.36963,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Qasmiyeh Bridge\n\u062c\u0633\u0631 \u0627\u0644\u0642\u0627\u0633\u0645\u064a\u0629",
+    "start_lng": 35.253138,
+    "start_lat": 33.341972,
+    "end_lng": 35.253138,
+    "end_lat": 33.341972,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Qasmiyeh - Borj Rahhal Intersection\n\u062a\u0642\u0627\u0637\u0639 \u0642\u0627\u0633\u0645\u064a\u0629 - \u0628\u0631\u062c \u0646\u062d\u0627\u0644",
+    "start_lng": 35.250852,
+    "start_lat": 33.33117,
+    "end_lng": 35.250852,
+    "end_lat": 33.33117,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Borgholiyeh Intersection\n\u062a\u0642\u0627\u0637\u0639\u00a0\u0627\u0644\u0628\u0631\u063a\u0644\u064a\u0629",
+    "start_lng": 35.241005,
+    "start_lat": 33.31607,
+    "end_lng": 35.241005,
+    "end_lat": 33.31607,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Cadmous Intersection\n\u062a\u0642\u0627\u0637\u0639 \u0627\u0644\u0642\u062f\u0645\u0648\u0633",
+    "start_lng": 35.236213,
+    "start_lat": 33.304074,
+    "end_lng": 35.236213,
+    "end_lat": 33.304074,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Aabbasiyyeh Intersection\n\u062a\u0642\u0627\u0637\u0639 \u0627\u0644\u0639\u0628\u0651\u0627\u0633\u064a\u0629",
+    "start_lng": 35.225593,
+    "start_lat": 33.287284,
+    "end_lng": 35.225593,
+    "end_lat": 33.287284,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Jabal Amel Hospital\n\u0645\u0633\u062a\u0634\u0641\u0649 \u062c\u0628\u0644 \u0639\u0627\u0645\u0644",
+    "start_lng": 35.217713,
+    "start_lat": 33.278887,
+    "end_lng": 35.217713,
+    "end_lat": 33.278887,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Tyre Roundabout\n\u0645\u0633\u062a\u062f\u064a\u0631\u0629 \u0635\u0648\u0631",
+    "start_lng": 35.213729,
+    "start_lat": 33.274679,
+    "end_lng": 35.213729,
+    "end_lat": 33.274679,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Tyre - Borj El Chmali Intersection\n\u062a\u0642\u0627\u0637\u0639 \u0635\u0648\u0631 - \u0628\u0631\u062c \u0627\u0644\u0634\u0645\u0627\u0644\u064a",
+    "start_lng": 35.214324,
+    "start_lat": 33.27069,
+    "end_lng": 35.214324,
+    "end_lat": 33.27069,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Tyre - Borj El Chmali Intersection\n\u062a\u0642\u0627\u0637\u0639 \u0635\u0648\u0631 - \u0628\u0631\u062c \u0627\u0644\u0634\u0645\u0627\u0644\u064a",
+    "start_lng": 35.21439,
+    "start_lat": 33.27076,
+    "end_lng": 35.21439,
+    "end_lat": 33.27076,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Tyre Roundabout\n\u0645\u0633\u062a\u062f\u064a\u0631\u0629 \u0635\u0648\u0631",
+    "start_lng": 35.213953,
+    "start_lat": 33.27463,
+    "end_lng": 35.213953,
+    "end_lat": 33.27463,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Jabal Amel Hospital\n\u0645\u0633\u062a\u0634\u0641\u0649 \u062c\u0628\u0644 \u0639\u0627\u0645\u0644",
+    "start_lng": 35.21775,
+    "start_lat": 33.27887,
+    "end_lng": 35.21775,
+    "end_lat": 33.27887,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Aabbasiyyeh Intersection\n\u062a\u0642\u0627\u0637\u0639 \u0627\u0644\u0639\u0628\u0651\u0627\u0633\u064a\u0629",
+    "start_lng": 35.22564,
+    "start_lat": 33.28727,
+    "end_lng": 35.22564,
+    "end_lat": 33.28727,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Cadmous Intersection\n\u062a\u0642\u0627\u0637\u0639 \u0627\u0644\u0642\u062f\u0645\u0648\u0633",
+    "start_lng": 35.23621,
+    "start_lat": 33.30408,
+    "end_lng": 35.23621,
+    "end_lat": 33.30408,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Borgholiyeh Intersection\n\u062a\u0642\u0627\u0637\u0639 \u0627\u0644\u0628\u0631\u063a\u0644\u064a\u0629",
+    "start_lng": 35.24102,
+    "start_lat": 33.31606,
+    "end_lng": 35.24102,
+    "end_lat": 33.31606,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Qasmiyeh - Borj Rahhal Intersection\n\u062a\u0642\u0627\u0637\u0639 \u0642\u0627\u0633\u0645\u064a\u0629 - \u0628\u0631\u062c \u0646\u062d\u0627\u0644",
+    "start_lng": 35.25089,
+    "start_lat": 33.33118,
+    "end_lng": 35.25089,
+    "end_lat": 33.33118,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Qasmiyeh Bridge\n\u062c\u0633\u0631 \u0627\u0644\u0642\u0627\u0633\u0645\u064a\u0629",
+    "start_lng": 35.25317,
+    "start_lat": 33.34197,
+    "end_lng": 35.25317,
+    "end_lat": 33.34197,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Kfar Badda - Aadloun Intersection\n\u062a\u0642\u0627\u0637\u0639 \u0643\u0641\u0631 \u0628\u062f\u0627 - \u0639\u062f\u0644\u0648\u0646",
+    "start_lng": 35.26577,
+    "start_lat": 33.36958,
+    "end_lng": 35.26577,
+    "end_lat": 33.36958,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Aadloun Intersection\n\u062a\u0642\u0627\u0637\u0639 \u0639\u062f\u0644\u0648\u0646",
+    "start_lng": 35.26826,
+    "start_lat": 33.41106,
+    "end_lng": 35.26826,
+    "end_lat": 33.41106,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Ansariyeh Intersection\n\u062a\u0642\u0627\u0637\u0639 \u0627\u0644\u0623\u0646\u0635\u0627\u0631\u064a\u0629",
+    "start_lng": 35.27534,
+    "start_lat": 33.43584,
+    "end_lng": 35.27534,
+    "end_lat": 33.43584,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Saksakiyeh - Sarafand Intersection\n\u062a\u0642\u0627\u0637\u0639 \u0633\u0643\u0633\u0643\u064a\u0629 - \u0635\u0631\u0641\u0646\u062f",
+    "start_lng": 35.27762,
+    "start_lat": 33.4424,
+    "end_lng": 35.27762,
+    "end_lat": 33.4424,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Sarafand\n\u0635\u0631\u0641\u0646\u062f",
+    "start_lng": 35.28449,
+    "start_lat": 33.4536,
+    "end_lng": 35.28449,
+    "end_lat": 33.4536,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Ghaziyeh - Deir El Zahrani Intersection\n\u062a\u0642\u0627\u0637\u0639 \u0627\u0644\u063a\u0627\u0632\u064a\u0629 - \u062f\u064a\u0631 \u0627\u0644\u0632\u0647\u0631\u0627\u0646\u064a",
+    "start_lng": 35.34166,
+    "start_lat": 33.49175,
+    "end_lng": 35.34166,
+    "end_lat": 33.49175,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Sanic Bridge\n\u062c\u0633\u0631 \u0633\u064a\u0646\u064a\u0642",
+    "start_lng": 35.36338,
+    "start_lat": 33.53597,
+    "end_lng": 35.36338,
+    "end_lat": 33.53597,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Sidon\n\u0635\u064a\u062f\u0627",
+    "start_lng": 35.371662,
+    "start_lat": 33.557493,
+    "end_lng": 35.371662,
+    "end_lat": 33.557493,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Nejmeh Square\n\u0633\u0627\u062d\u0629 \u0627\u0644\u0646\u062c\u0645\u0629",
+    "start_lng": 35.37534,
+    "start_lat": 33.56493,
+    "end_lng": 35.37534,
+    "end_lat": 33.56493,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Saida Entrance\n\u0645\u062f\u062e\u0644 \u0635\u064a\u062f\u0627",
+    "start_lng": 35.37655,
+    "start_lat": 33.56716,
+    "end_lng": 35.37655,
+    "end_lat": 33.56716,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Jadra Bridge\n\u062c\u0633\u0631 \u062c\u062f\u0631\u0627",
+    "start_lng": 35.40251,
+    "start_lat": 33.6335,
+    "end_lng": 35.40251,
+    "end_lat": 33.6335,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Jiyeh Electricity\n\u0643\u0647\u0631\u0628\u0627\u0621 \u0627\u0644\u062c\u064a\u0629",
+    "start_lng": 35.41078,
+    "start_lat": 33.6493,
+    "end_lng": 35.41078,
+    "end_lat": 33.6493,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Jiyeh - Barja Intersection\n\u062a\u0642\u0627\u0637\u0639 \u062c\u064a\u0629 - \u0628\u0631\u062c\u0627",
+    "start_lng": 35.42524,
+    "start_lat": 33.65903,
+    "end_lng": 35.42524,
+    "end_lat": 33.65903,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Jiyeh Entrance\n\u0645\u062f\u062e\u0644 \u0627\u0644\u062c\u064a\u0629",
+    "start_lng": 35.42344,
+    "start_lat": 33.68072,
+    "end_lng": 35.42344,
+    "end_lat": 33.68072,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Jiyeh Bridge\n\u062c\u0633\u0631 \u0627\u0644\u062c\u064a\u0629",
+    "start_lng": 35.42473,
+    "start_lat": 33.6831,
+    "end_lng": 35.42473,
+    "end_lat": 33.6831,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Damour - Saadiyat Intersection\n\u062a\u0642\u0627\u0637\u0639 \u0627\u0644\u062f\u0627\u0645\u0648\u0631 - \u0633\u0639\u062f\u064a\u0627\u062a",
+    "start_lng": 35.42559,
+    "start_lat": 33.69307,
+    "end_lng": 35.42559,
+    "end_lat": 33.69307,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Modern University for Business and Science - Damour\n\u0627\u0644\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u062d\u062f\u064a\u062b\u0629 \u0644\u0644\u0625\u062f\u0627\u0631\u0629 \u0648\u0627\u0644\u0639\u0644\u0648\u0645 - \u062f\u0627\u0645\u0648\u0631",
+    "start_lng": 35.45212,
+    "start_lat": 33.71886,
+    "end_lng": 35.45212,
+    "end_lat": 33.71886,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Naameh Intersection\n\u062a\u0642\u0627\u0637\u0639 \u0627\u0644\u0646\u0627\u0639\u0645\u0629",
+    "start_lng": 35.45419,
+    "start_lat": 33.75271,
+    "end_lng": 35.45419,
+    "end_lat": 33.75271,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Douha Intersection\n\u062a\u0642\u0627\u0637\u0639 \u0627\u0644\u062f\u0648\u062d\u0629",
+    "start_lng": 35.45934,
+    "start_lat": 33.76093,
+    "end_lng": 35.45934,
+    "end_lat": 33.76093,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Chamsine Bakery\n\u0623\u0641\u0631\u0627\u0646 \u0634\u0645\u0633\u064a\u0646",
+    "start_lng": 35.4717,
+    "start_lat": 33.77567,
+    "end_lng": 35.4717,
+    "end_lat": 33.77567,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Islamic University of Lebanon\n\u0627\u0644\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064a\u0629 \u0641\u064a \u0644\u0628\u0646\u0627\u0646",
+    "start_lng": 35.47517,
+    "start_lat": 33.78105,
+    "end_lng": 35.47517,
+    "end_lat": 33.78105,
+    "point_count": 1
+  },
+  {
+    "name": "Unknown Route",
+    "description": "Khalde\u00a0Bridge \n\u062c\u0633\u0631\u00a0 \u062e\u0644\u062f\u0629",
+    "start_lng": 35.480667,
+    "start_lat": 33.788471,
+    "end_lng": 35.480667,
+    "end_lat": 33.788471,
+    "point_count": 1
+  }
+]
